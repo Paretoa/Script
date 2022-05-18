@@ -1,7 +1,7 @@
-#原脚本基础上改了很多自用的
-#!name=Script - All in one . By nzw9314
+#!name=自用各类脚本
 #!desc=该模块为脚本合集,用于Remove Ads + unlock vip.集成: NobyDa、yichahucha、Choler、onewayticket、langkhach以及个人收集整理的脚本. 需要配置 CA 证书并启用 MitM 开关.  您可以在使用后手动将本模块禁用，以免产生不必要的MITM.如果您是YouTube会员.请添加-*.googlevideo.com到hostname，否则无法加载视频.
 #!system=ios
+#原脚本基础上改了很多自用的
 [General]
 # > 优酷 去广告
 force-http-engine-hosts = %APPEND% vali.cp31.ott.cibntv.net
@@ -32,6 +32,7 @@ URL-REGEX,^https?:\/\/api\.rr\.tv\/(?:ad\/getAll$|storage/business/rootName/app/
 # > 优酷 去广告
 URL-REGEX,^http:\/\/vali\.cp31\.ott\.cibntv\.net\/youku\/,REJECT-TINYGIF
 
+[URL Rewrite]
 # > 抖音 去广告&水印
 ^https?:\/\/.+?\.amemv\.com\/aweme\/v\d\/feed\/ https://aweme.snssdk.com/aweme/v1/feed/ header
 ^https?:\/\/.+?\.amemv\.com\/aweme\/v\d\/aweme\/post\/ https://aweme.snssdk.com/aweme/v1/aweme/post/ header
@@ -40,7 +41,6 @@ URL-REGEX,^http:\/\/vali\.cp31\.ott\.cibntv\.net\/youku\/,REJECT-TINYGIF
 ^https?:\/\/.+?\.amemv\.com\/aweme\/v\d\/search\/item\/ https://aweme.snssdk.com/aweme/v1/search/item/ header
 ^https?:\/\/.+?\.amemv\.com\/aweme\/v\d\/general\/search\/single\/ https://aweme.snssdk.com/aweme/v1/general/search/single/ header
 ^https?:\/\/.+?\.amemv\.com\/aweme\/v\d\/hot/search\/video\/list\/ https://aweme.snssdk.com/aweme/v1/hot/search/video/list/ header
-
 [Header Rewrite]
 # > 小小影视vip (By Eric)
 https:\/\/.*.xiaoxiao(img|apps|appxs).com header-replace Cookie xxx_api_auth=6131333537653261363463323331666265663763396239663835636662373930
