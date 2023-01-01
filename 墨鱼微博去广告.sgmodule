@@ -1,5 +1,5 @@
 #!name=墨鱼微博去广告
-#!desc=仅仅添加了普通版去广告，国际版我不用所以没加
+#!desc=仅仅添加了普通版去广告，国际版我不用所以没加；如果开屏广告失效请重装微博
 
 [Rule]
 DOMAIN,sdkapp.uve.weibo.com,DIRECT
