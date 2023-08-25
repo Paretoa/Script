@@ -1,0 +1,3911 @@
+文件夹 PATH 列表
+卷序列号为 7DAE-61C7
+D:.
+│  api-ms-win-core-console-l1-1-0.dll
+│  api-ms-win-core-datetime-l1-1-0.dll
+│  api-ms-win-core-debug-l1-1-0.dll
+│  api-ms-win-core-errorhandling-l1-1-0.dll
+│  api-ms-win-core-file-l1-1-0.dll
+│  api-ms-win-core-file-l1-2-0.dll
+│  api-ms-win-core-file-l2-1-0.dll
+│  api-ms-win-core-handle-l1-1-0.dll
+│  api-ms-win-core-heap-l1-1-0.dll
+│  api-ms-win-core-interlocked-l1-1-0.dll
+│  api-ms-win-core-libraryloader-l1-1-0.dll
+│  api-ms-win-core-localization-l1-2-0.dll
+│  api-ms-win-core-memory-l1-1-0.dll
+│  api-ms-win-core-namedpipe-l1-1-0.dll
+│  api-ms-win-core-processenvironment-l1-1-0.dll
+│  api-ms-win-core-processthreads-l1-1-0.dll
+│  api-ms-win-core-processthreads-l1-1-1.dll
+│  api-ms-win-core-profile-l1-1-0.dll
+│  api-ms-win-core-rtlsupport-l1-1-0.dll
+│  api-ms-win-core-string-l1-1-0.dll
+│  api-ms-win-core-synch-l1-1-0.dll
+│  api-ms-win-core-synch-l1-2-0.dll
+│  api-ms-win-core-sysinfo-l1-1-0.dll
+│  api-ms-win-core-timezone-l1-1-0.dll
+│  api-ms-win-core-util-l1-1-0.dll
+│  api-ms-win-crt-conio-l1-1-0.dll
+│  api-ms-win-crt-convert-l1-1-0.dll
+│  api-ms-win-crt-environment-l1-1-0.dll
+│  api-ms-win-crt-filesystem-l1-1-0.dll
+│  api-ms-win-crt-heap-l1-1-0.dll
+│  api-ms-win-crt-locale-l1-1-0.dll
+│  api-ms-win-crt-math-l1-1-0.dll
+│  api-ms-win-crt-process-l1-1-0.dll
+│  api-ms-win-crt-runtime-l1-1-0.dll
+│  api-ms-win-crt-stdio-l1-1-0.dll
+│  api-ms-win-crt-string-l1-1-0.dll
+│  api-ms-win-crt-time-l1-1-0.dll
+│  api-ms-win-crt-utility-l1-1-0.dll
+│  base_library.zip
+│  c10.dll
+│  checkpoint.tar
+│  CONCRT140.dll
+│  cv2.cp37-win_amd64.pyd
+│  directory_structure.txt
+│  ffmpeg.exe
+│  freetype.dll
+│  icudt58.dll
+│  icuin58.dll
+│  icuuc58.dll
+│  kiwisolver.cp37-win_amd64.pyd
+│  libcrypto-1_1-x64.dll
+│  LIBEAY32.dll
+│  libifcoremd.dll
+│  libiomp5md.dll
+│  liblzma.dll
+│  libmmd.dll
+│  libpng16.dll
+│  libssl-1_1-x64.dll
+│  Microsoft.VC90.CRT.manifest
+│  mkl_avx.dll
+│  mkl_avx2.dll
+│  mkl_avx512.dll
+│  mkl_blacs_ilp64.dll
+│  mkl_blacs_intelmpi_ilp64.dll
+│  mkl_blacs_intelmpi_lp64.dll
+│  mkl_blacs_lp64.dll
+│  mkl_blacs_mpich2_ilp64.dll
+│  mkl_blacs_mpich2_lp64.dll
+│  mkl_blacs_msmpi_ilp64.dll
+│  mkl_blacs_msmpi_lp64.dll
+│  mkl_cdft_core.dll
+│  mkl_core.dll
+│  mkl_def.dll
+│  mkl_intel_thread.dll
+│  mkl_mc.dll
+│  mkl_mc3.dll
+│  mkl_msg.dll
+│  mkl_pgi_thread.dll
+│  mkl_rt.dll
+│  mkl_scalapack_ilp64.dll
+│  mkl_scalapack_lp64.dll
+│  mkl_sequential.dll
+│  mkl_tbb_thread.dll
+│  mkl_vml_avx.dll
+│  mkl_vml_avx2.dll
+│  mkl_vml_avx512.dll
+│  mkl_vml_cmpt.dll
+│  mkl_vml_def.dll
+│  mkl_vml_mc.dll
+│  mkl_vml_mc2.dll
+│  mkl_vml_mc3.dll
+│  msvcm90.dll
+│  MSVCP140.dll
+│  msvcp90.dll
+│  msvcr90.dll
+│  nvfatbinaryLoader.dll
+│  nvToolsExt64_1.dll
+│  opencv_aruco341.dll
+│  opencv_bgsegm341.dll
+│  opencv_calib3d341.dll
+│  opencv_ccalib341.dll
+│  opencv_core341.dll
+│  opencv_dnn341.dll
+│  opencv_face341.dll
+│  opencv_features2d341.dll
+│  opencv_flann341.dll
+│  opencv_fuzzy341.dll
+│  opencv_hfs341.dll
+│  opencv_highgui341.dll
+│  opencv_imgcodecs341.dll
+│  opencv_imgproc341.dll
+│  opencv_img_hash341.dll
+│  opencv_line_descriptor341.dll
+│  opencv_ml341.dll
+│  opencv_objdetect341.dll
+│  opencv_optflow341.dll
+│  opencv_phase_unwrapping341.dll
+│  opencv_photo341.dll
+│  opencv_plot341.dll
+│  opencv_reg341.dll
+│  opencv_rgbd341.dll
+│  opencv_saliency341.dll
+│  opencv_shape341.dll
+│  opencv_stitching341.dll
+│  opencv_structured_light341.dll
+│  opencv_surface_matching341.dll
+│  opencv_text341.dll
+│  opencv_tracking341.dll
+│  opencv_video341.dll
+│  opencv_videoio341.dll
+│  opencv_xfeatures2d341.dll
+│  opencv_ximgproc341.dll
+│  opencv_xphoto341.dll
+│  pyexpat.pyd
+│  python37.dll
+│  Qt5Core.dll
+│  Qt5Gui.dll
+│  Qt5Widgets.dll
+│  select.pyd
+│  shm.dll
+│  sip.pyd
+│  sqlite3.dll
+│  SSLEAY32.dll
+│  tcl86t.dll
+│  tiff.dll
+│  tk86t.dll
+│  torch.dll
+│  ucrtbase.dll
+│  unicodedata.pyd
+│  VCRUNTIME140.dll
+│  vox-256.yaml
+│  yaml.dll
+│  yanderify.exe
+│  yanderify.exe.manifest
+│  zlib.dll
+│  zstd.dll
+│  _asyncio.pyd
+│  _bz2.pyd
+│  _cffi_backend.cp37-win_amd64.pyd
+│  _contextvars.pyd
+│  _ctypes.pyd
+│  _decimal.pyd
+│  _distutils_findvs.pyd
+│  _elementtree.pyd
+│  _hashlib.pyd
+│  _lzma.pyd
+│  _multiprocessing.pyd
+│  _overlapped.pyd
+│  _queue.pyd
+│  _socket.pyd
+│  _sqlite3.pyd
+│  _ssl.pyd
+│  _tkinter.pyd
+│  _yaml.cp37-win_amd64.pyd
+│  
+├─brotli
+│      _brotli.cp37-win_amd64.pyd
+│      
+├─certifi
+│      cacert.pem
+│      
+├─cryptography
+│  └─hazmat
+│      └─bindings
+│              _constant_time.cp37-win_amd64.pyd
+│              _openssl.cp37-win_amd64.pyd
+│              
+├─cryptography-2.3.1-py3.7.egg-info
+│      INSTALLER
+│      METADATA
+│      RECORD
+│      top_level.txt
+│      WHEEL
+│      
+├─dask
+│      dask-schema.yaml
+│      dask.yaml
+│      
+├─imageio
+│  └─resources
+│      │  shipped_resources_go_here
+│      │  
+│      └─images
+│              astronaut.png
+│              chelsea.png
+│              chelsea.zip
+│              cockatoo.mp4
+│              newtonscradle.gif
+│              realshort.mp4
+│              stent.npz
+│              
+├─Include
+│      pyconfig.h
+│      
+├─lib2to3
+│      Grammar.txt
+│      Grammar3.7.1.final.0.pickle
+│      PatternGrammar.txt
+│      PatternGrammar3.7.1.final.0.pickle
+│      
+├─matplotlib
+│  │  ft2font.cp37-win_amd64.pyd
+│  │  ttconv.cp37-win_amd64.pyd
+│  │  _contour.cp37-win_amd64.pyd
+│  │  _image.cp37-win_amd64.pyd
+│  │  _path.cp37-win_amd64.pyd
+│  │  _png.cp37-win_amd64.pyd
+│  │  _qhull.cp37-win_amd64.pyd
+│  │  _tri.cp37-win_amd64.pyd
+│  │  _windowing.cp37-win_amd64.pyd
+│  │  
+│  └─backends
+│          _backend_agg.cp37-win_amd64.pyd
+│          _tkagg.cp37-win_amd64.pyd
+│          
+├─mkl_fft
+│      _pydfti.cp37-win_amd64.pyd
+│      
+├─mpl-data
+│  │  matplotlibrc
+│  │  
+│  ├─fonts
+│  │  ├─afm
+│  │  │      cmex10.afm
+│  │  │      cmmi10.afm
+│  │  │      cmr10.afm
+│  │  │      cmsy10.afm
+│  │  │      cmtt10.afm
+│  │  │      pagd8a.afm
+│  │  │      pagdo8a.afm
+│  │  │      pagk8a.afm
+│  │  │      pagko8a.afm
+│  │  │      pbkd8a.afm
+│  │  │      pbkdi8a.afm
+│  │  │      pbkl8a.afm
+│  │  │      pbkli8a.afm
+│  │  │      pcrb8a.afm
+│  │  │      pcrbo8a.afm
+│  │  │      pcrr8a.afm
+│  │  │      pcrro8a.afm
+│  │  │      phvb8a.afm
+│  │  │      phvb8an.afm
+│  │  │      phvbo8a.afm
+│  │  │      phvbo8an.afm
+│  │  │      phvl8a.afm
+│  │  │      phvlo8a.afm
+│  │  │      phvr8a.afm
+│  │  │      phvr8an.afm
+│  │  │      phvro8a.afm
+│  │  │      phvro8an.afm
+│  │  │      pncb8a.afm
+│  │  │      pncbi8a.afm
+│  │  │      pncr8a.afm
+│  │  │      pncri8a.afm
+│  │  │      pplb8a.afm
+│  │  │      pplbi8a.afm
+│  │  │      pplr8a.afm
+│  │  │      pplri8a.afm
+│  │  │      psyr.afm
+│  │  │      ptmb8a.afm
+│  │  │      ptmbi8a.afm
+│  │  │      ptmr8a.afm
+│  │  │      ptmri8a.afm
+│  │  │      putb8a.afm
+│  │  │      putbi8a.afm
+│  │  │      putr8a.afm
+│  │  │      putri8a.afm
+│  │  │      pzcmi8a.afm
+│  │  │      pzdr.afm
+│  │  │      
+│  │  ├─pdfcorefonts
+│  │  │      Courier-Bold.afm
+│  │  │      Courier-BoldOblique.afm
+│  │  │      Courier-Oblique.afm
+│  │  │      Courier.afm
+│  │  │      Helvetica-Bold.afm
+│  │  │      Helvetica-BoldOblique.afm
+│  │  │      Helvetica-Oblique.afm
+│  │  │      Helvetica.afm
+│  │  │      readme.txt
+│  │  │      Symbol.afm
+│  │  │      Times-Bold.afm
+│  │  │      Times-BoldItalic.afm
+│  │  │      Times-Italic.afm
+│  │  │      Times-Roman.afm
+│  │  │      ZapfDingbats.afm
+│  │  │      
+│  │  └─ttf
+│  │          cmb10.ttf
+│  │          cmex10.ttf
+│  │          cmmi10.ttf
+│  │          cmr10.ttf
+│  │          cmss10.ttf
+│  │          cmsy10.ttf
+│  │          cmtt10.ttf
+│  │          DejaVuSans-Bold.ttf
+│  │          DejaVuSans-BoldOblique.ttf
+│  │          DejaVuSans-Oblique.ttf
+│  │          DejaVuSans.ttf
+│  │          DejaVuSansDisplay.ttf
+│  │          DejaVuSansMono-Bold.ttf
+│  │          DejaVuSansMono-BoldOblique.ttf
+│  │          DejaVuSansMono-Oblique.ttf
+│  │          DejaVuSansMono.ttf
+│  │          DejaVuSerif-Bold.ttf
+│  │          DejaVuSerif-BoldItalic.ttf
+│  │          DejaVuSerif-Italic.ttf
+│  │          DejaVuSerif.ttf
+│  │          DejaVuSerifDisplay.ttf
+│  │          LICENSE_STIX
+│  │          STIXGeneral.ttf
+│  │          STIXGeneralBol.ttf
+│  │          STIXGeneralBolIta.ttf
+│  │          STIXGeneralItalic.ttf
+│  │          STIXNonUni.ttf
+│  │          STIXNonUniBol.ttf
+│  │          STIXNonUniBolIta.ttf
+│  │          STIXNonUniIta.ttf
+│  │          STIXSizFiveSymReg.ttf
+│  │          STIXSizFourSymBol.ttf
+│  │          STIXSizFourSymReg.ttf
+│  │          STIXSizOneSymBol.ttf
+│  │          STIXSizOneSymReg.ttf
+│  │          STIXSizThreeSymBol.ttf
+│  │          STIXSizThreeSymReg.ttf
+│  │          STIXSizTwoSymBol.ttf
+│  │          STIXSizTwoSymReg.ttf
+│  │          
+│  ├─images
+│  │      back.gif
+│  │      back.pdf
+│  │      back.png
+│  │      back.svg
+│  │      back_large.gif
+│  │      back_large.png
+│  │      filesave.gif
+│  │      filesave.pdf
+│  │      filesave.png
+│  │      filesave.svg
+│  │      filesave_large.gif
+│  │      filesave_large.png
+│  │      forward.gif
+│  │      forward.pdf
+│  │      forward.png
+│  │      forward.svg
+│  │      forward_large.gif
+│  │      forward_large.png
+│  │      hand.gif
+│  │      hand.pdf
+│  │      hand.png
+│  │      hand.svg
+│  │      hand_large.gif
+│  │      home.gif
+│  │      home.pdf
+│  │      home.png
+│  │      home.svg
+│  │      home_large.gif
+│  │      home_large.png
+│  │      matplotlib.pdf
+│  │      matplotlib.png
+│  │      matplotlib.ppm
+│  │      matplotlib.svg
+│  │      matplotlib_large.png
+│  │      move.gif
+│  │      move.pdf
+│  │      move.png
+│  │      move.svg
+│  │      move_large.gif
+│  │      move_large.png
+│  │      qt4_editor_options.pdf
+│  │      qt4_editor_options.png
+│  │      qt4_editor_options.svg
+│  │      qt4_editor_options_large.png
+│  │      subplots.gif
+│  │      subplots.pdf
+│  │      subplots.png
+│  │      subplots.svg
+│  │      subplots_large.gif
+│  │      subplots_large.png
+│  │      zoom_to_rect.gif
+│  │      zoom_to_rect.pdf
+│  │      zoom_to_rect.png
+│  │      zoom_to_rect.svg
+│  │      zoom_to_rect_large.gif
+│  │      zoom_to_rect_large.png
+│  │      
+│  └─stylelib
+│          bmh.mplstyle
+│          classic.mplstyle
+│          dark_background.mplstyle
+│          fast.mplstyle
+│          fivethirtyeight.mplstyle
+│          ggplot.mplstyle
+│          grayscale.mplstyle
+│          seaborn-bright.mplstyle
+│          seaborn-colorblind.mplstyle
+│          seaborn-dark-palette.mplstyle
+│          seaborn-dark.mplstyle
+│          seaborn-darkgrid.mplstyle
+│          seaborn-deep.mplstyle
+│          seaborn-muted.mplstyle
+│          seaborn-notebook.mplstyle
+│          seaborn-paper.mplstyle
+│          seaborn-pastel.mplstyle
+│          seaborn-poster.mplstyle
+│          seaborn-talk.mplstyle
+│          seaborn-ticks.mplstyle
+│          seaborn-white.mplstyle
+│          seaborn-whitegrid.mplstyle
+│          seaborn.mplstyle
+│          Solarize_Light2.mplstyle
+│          tableau-colorblind10.mplstyle
+│          _classic_test.mplstyle
+│          
+├─numpy
+│  │  _mklinit.cp37-win_amd64.pyd
+│  │  
+│  ├─core
+│  │      multiarray.cp37-win_amd64.pyd
+│  │      umath.cp37-win_amd64.pyd
+│  │      _multiarray_tests.cp37-win_amd64.pyd
+│  │      
+│  ├─fft
+│  │      fftpack_lite.cp37-win_amd64.pyd
+│  │      
+│  ├─linalg
+│  │      lapack_lite.cp37-win_amd64.pyd
+│  │      _umath_linalg.cp37-win_amd64.pyd
+│  │      
+│  └─random
+│          mtrand.cp37-win_amd64.pyd
+│          
+├─pandas
+│  ├─io
+│  │  ├─msgpack
+│  │  │      _packer.cp37-win_amd64.pyd
+│  │  │      _unpacker.cp37-win_amd64.pyd
+│  │  │      
+│  │  └─sas
+│  │          _sas.cp37-win_amd64.pyd
+│  │          
+│  ├─util
+│  │      _move.cp37-win_amd64.pyd
+│  │      
+│  └─_libs
+│      │  algos.cp37-win_amd64.pyd
+│      │  groupby.cp37-win_amd64.pyd
+│      │  hashing.cp37-win_amd64.pyd
+│      │  hashtable.cp37-win_amd64.pyd
+│      │  index.cp37-win_amd64.pyd
+│      │  indexing.cp37-win_amd64.pyd
+│      │  internals.cp37-win_amd64.pyd
+│      │  interval.cp37-win_amd64.pyd
+│      │  join.cp37-win_amd64.pyd
+│      │  json.cp37-win_amd64.pyd
+│      │  lib.cp37-win_amd64.pyd
+│      │  missing.cp37-win_amd64.pyd
+│      │  ops.cp37-win_amd64.pyd
+│      │  parsers.cp37-win_amd64.pyd
+│      │  properties.cp37-win_amd64.pyd
+│      │  reduction.cp37-win_amd64.pyd
+│      │  reshape.cp37-win_amd64.pyd
+│      │  skiplist.cp37-win_amd64.pyd
+│      │  sparse.cp37-win_amd64.pyd
+│      │  testing.cp37-win_amd64.pyd
+│      │  tslib.cp37-win_amd64.pyd
+│      │  window.cp37-win_amd64.pyd
+│      │  writers.cp37-win_amd64.pyd
+│      │  
+│      └─tslibs
+│              ccalendar.cp37-win_amd64.pyd
+│              conversion.cp37-win_amd64.pyd
+│              fields.cp37-win_amd64.pyd
+│              frequencies.cp37-win_amd64.pyd
+│              nattype.cp37-win_amd64.pyd
+│              np_datetime.cp37-win_amd64.pyd
+│              offsets.cp37-win_amd64.pyd
+│              parsing.cp37-win_amd64.pyd
+│              period.cp37-win_amd64.pyd
+│              resolution.cp37-win_amd64.pyd
+│              strptime.cp37-win_amd64.pyd
+│              timedeltas.cp37-win_amd64.pyd
+│              timestamps.cp37-win_amd64.pyd
+│              timezones.cp37-win_amd64.pyd
+│              
+├─PIL
+│      _imaging.cp37-win_amd64.pyd
+│      _imagingtk.cp37-win_amd64.pyd
+│      
+├─PyQt5
+│      QtCore.pyd
+│      QtGui.pyd
+│      QtWidgets.pyd
+│      
+├─pytz
+│  └─zoneinfo
+│      │  CET
+│      │  CST6CDT
+│      │  Cuba
+│      │  EET
+│      │  Egypt
+│      │  Eire
+│      │  EST
+│      │  EST5EDT
+│      │  Factory
+│      │  GB
+│      │  GB-Eire
+│      │  GMT
+│      │  GMT+0
+│      │  GMT-0
+│      │  GMT0
+│      │  Greenwich
+│      │  Hongkong
+│      │  HST
+│      │  Iceland
+│      │  Iran
+│      │  iso3166.tab
+│      │  Israel
+│      │  Jamaica
+│      │  Japan
+│      │  Kwajalein
+│      │  leapseconds
+│      │  Libya
+│      │  MET
+│      │  MST
+│      │  MST7MDT
+│      │  Navajo
+│      │  NZ
+│      │  NZ-CHAT
+│      │  Poland
+│      │  Portugal
+│      │  posixrules
+│      │  PRC
+│      │  PST8PDT
+│      │  ROC
+│      │  ROK
+│      │  Singapore
+│      │  Turkey
+│      │  tzdata.zi
+│      │  UCT
+│      │  Universal
+│      │  UTC
+│      │  W-SU
+│      │  WET
+│      │  zone.tab
+│      │  zone1970.tab
+│      │  Zulu
+│      │  
+│      ├─Africa
+│      │      Abidjan
+│      │      Accra
+│      │      Addis_Ababa
+│      │      Algiers
+│      │      Asmara
+│      │      Asmera
+│      │      Bamako
+│      │      Bangui
+│      │      Banjul
+│      │      Bissau
+│      │      Blantyre
+│      │      Brazzaville
+│      │      Bujumbura
+│      │      Cairo
+│      │      Casablanca
+│      │      Ceuta
+│      │      Conakry
+│      │      Dakar
+│      │      Dar_es_Salaam
+│      │      Djibouti
+│      │      Douala
+│      │      El_Aaiun
+│      │      Freetown
+│      │      Gaborone
+│      │      Harare
+│      │      Johannesburg
+│      │      Juba
+│      │      Kampala
+│      │      Khartoum
+│      │      Kigali
+│      │      Kinshasa
+│      │      Lagos
+│      │      Libreville
+│      │      Lome
+│      │      Luanda
+│      │      Lubumbashi
+│      │      Lusaka
+│      │      Malabo
+│      │      Maputo
+│      │      Maseru
+│      │      Mbabane
+│      │      Mogadishu
+│      │      Monrovia
+│      │      Nairobi
+│      │      Ndjamena
+│      │      Niamey
+│      │      Nouakchott
+│      │      Ouagadougou
+│      │      Porto-Novo
+│      │      Sao_Tome
+│      │      Timbuktu
+│      │      Tripoli
+│      │      Tunis
+│      │      Windhoek
+│      │      
+│      ├─America
+│      │  │  Adak
+│      │  │  Anchorage
+│      │  │  Anguilla
+│      │  │  Antigua
+│      │  │  Araguaina
+│      │  │  Aruba
+│      │  │  Asuncion
+│      │  │  Atikokan
+│      │  │  Atka
+│      │  │  Bahia
+│      │  │  Bahia_Banderas
+│      │  │  Barbados
+│      │  │  Belem
+│      │  │  Belize
+│      │  │  Blanc-Sablon
+│      │  │  Boa_Vista
+│      │  │  Bogota
+│      │  │  Boise
+│      │  │  Buenos_Aires
+│      │  │  Cambridge_Bay
+│      │  │  Campo_Grande
+│      │  │  Cancun
+│      │  │  Caracas
+│      │  │  Catamarca
+│      │  │  Cayenne
+│      │  │  Cayman
+│      │  │  Chicago
+│      │  │  Chihuahua
+│      │  │  Coral_Harbour
+│      │  │  Cordoba
+│      │  │  Costa_Rica
+│      │  │  Creston
+│      │  │  Cuiaba
+│      │  │  Curacao
+│      │  │  Danmarkshavn
+│      │  │  Dawson
+│      │  │  Dawson_Creek
+│      │  │  Denver
+│      │  │  Detroit
+│      │  │  Dominica
+│      │  │  Edmonton
+│      │  │  Eirunepe
+│      │  │  El_Salvador
+│      │  │  Ensenada
+│      │  │  Fortaleza
+│      │  │  Fort_Nelson
+│      │  │  Fort_Wayne
+│      │  │  Glace_Bay
+│      │  │  Godthab
+│      │  │  Goose_Bay
+│      │  │  Grand_Turk
+│      │  │  Grenada
+│      │  │  Guadeloupe
+│      │  │  Guatemala
+│      │  │  Guayaquil
+│      │  │  Guyana
+│      │  │  Halifax
+│      │  │  Havana
+│      │  │  Hermosillo
+│      │  │  Indianapolis
+│      │  │  Inuvik
+│      │  │  Iqaluit
+│      │  │  Jamaica
+│      │  │  Jujuy
+│      │  │  Juneau
+│      │  │  Knox_IN
+│      │  │  Kralendijk
+│      │  │  La_Paz
+│      │  │  Lima
+│      │  │  Los_Angeles
+│      │  │  Louisville
+│      │  │  Lower_Princes
+│      │  │  Maceio
+│      │  │  Managua
+│      │  │  Manaus
+│      │  │  Marigot
+│      │  │  Martinique
+│      │  │  Matamoros
+│      │  │  Mazatlan
+│      │  │  Mendoza
+│      │  │  Menominee
+│      │  │  Merida
+│      │  │  Metlakatla
+│      │  │  Mexico_City
+│      │  │  Miquelon
+│      │  │  Moncton
+│      │  │  Monterrey
+│      │  │  Montevideo
+│      │  │  Montreal
+│      │  │  Montserrat
+│      │  │  Nassau
+│      │  │  New_York
+│      │  │  Nipigon
+│      │  │  Nome
+│      │  │  Noronha
+│      │  │  Nuuk
+│      │  │  Ojinaga
+│      │  │  Panama
+│      │  │  Pangnirtung
+│      │  │  Paramaribo
+│      │  │  Phoenix
+│      │  │  Port-au-Prince
+│      │  │  Porto_Acre
+│      │  │  Porto_Velho
+│      │  │  Port_of_Spain
+│      │  │  Puerto_Rico
+│      │  │  Punta_Arenas
+│      │  │  Rainy_River
+│      │  │  Rankin_Inlet
+│      │  │  Recife
+│      │  │  Regina
+│      │  │  Resolute
+│      │  │  Rio_Branco
+│      │  │  Rosario
+│      │  │  Santarem
+│      │  │  Santa_Isabel
+│      │  │  Santiago
+│      │  │  Santo_Domingo
+│      │  │  Sao_Paulo
+│      │  │  Scoresbysund
+│      │  │  Shiprock
+│      │  │  Sitka
+│      │  │  St_Barthelemy
+│      │  │  St_Johns
+│      │  │  St_Kitts
+│      │  │  St_Lucia
+│      │  │  St_Thomas
+│      │  │  St_Vincent
+│      │  │  Swift_Current
+│      │  │  Tegucigalpa
+│      │  │  Thule
+│      │  │  Thunder_Bay
+│      │  │  Tijuana
+│      │  │  Toronto
+│      │  │  Tortola
+│      │  │  Vancouver
+│      │  │  Virgin
+│      │  │  Whitehorse
+│      │  │  Winnipeg
+│      │  │  Yakutat
+│      │  │  Yellowknife
+│      │  │  
+│      │  ├─Argentina
+│      │  │      Buenos_Aires
+│      │  │      Catamarca
+│      │  │      ComodRivadavia
+│      │  │      Cordoba
+│      │  │      Jujuy
+│      │  │      La_Rioja
+│      │  │      Mendoza
+│      │  │      Rio_Gallegos
+│      │  │      Salta
+│      │  │      San_Juan
+│      │  │      San_Luis
+│      │  │      Tucuman
+│      │  │      Ushuaia
+│      │  │      
+│      │  ├─Indiana
+│      │  │      Indianapolis
+│      │  │      Knox
+│      │  │      Marengo
+│      │  │      Petersburg
+│      │  │      Tell_City
+│      │  │      Vevay
+│      │  │      Vincennes
+│      │  │      Winamac
+│      │  │      
+│      │  ├─Kentucky
+│      │  │      Louisville
+│      │  │      Monticello
+│      │  │      
+│      │  └─North_Dakota
+│      │          Beulah
+│      │          Center
+│      │          New_Salem
+│      │          
+│      ├─Antarctica
+│      │      Casey
+│      │      Davis
+│      │      DumontDUrville
+│      │      Macquarie
+│      │      Mawson
+│      │      McMurdo
+│      │      Palmer
+│      │      Rothera
+│      │      South_Pole
+│      │      Syowa
+│      │      Troll
+│      │      Vostok
+│      │      
+│      ├─Arctic
+│      │      Longyearbyen
+│      │      
+│      ├─Asia
+│      │      Aden
+│      │      Almaty
+│      │      Amman
+│      │      Anadyr
+│      │      Aqtau
+│      │      Aqtobe
+│      │      Ashgabat
+│      │      Ashkhabad
+│      │      Atyrau
+│      │      Baghdad
+│      │      Bahrain
+│      │      Baku
+│      │      Bangkok
+│      │      Barnaul
+│      │      Beirut
+│      │      Bishkek
+│      │      Brunei
+│      │      Calcutta
+│      │      Chita
+│      │      Choibalsan
+│      │      Chongqing
+│      │      Chungking
+│      │      Colombo
+│      │      Dacca
+│      │      Damascus
+│      │      Dhaka
+│      │      Dili
+│      │      Dubai
+│      │      Dushanbe
+│      │      Famagusta
+│      │      Gaza
+│      │      Harbin
+│      │      Hebron
+│      │      Hong_Kong
+│      │      Hovd
+│      │      Ho_Chi_Minh
+│      │      Irkutsk
+│      │      Istanbul
+│      │      Jakarta
+│      │      Jayapura
+│      │      Jerusalem
+│      │      Kabul
+│      │      Kamchatka
+│      │      Karachi
+│      │      Kashgar
+│      │      Kathmandu
+│      │      Katmandu
+│      │      Khandyga
+│      │      Kolkata
+│      │      Krasnoyarsk
+│      │      Kuala_Lumpur
+│      │      Kuching
+│      │      Kuwait
+│      │      Macao
+│      │      Macau
+│      │      Magadan
+│      │      Makassar
+│      │      Manila
+│      │      Muscat
+│      │      Nicosia
+│      │      Novokuznetsk
+│      │      Novosibirsk
+│      │      Omsk
+│      │      Oral
+│      │      Phnom_Penh
+│      │      Pontianak
+│      │      Pyongyang
+│      │      Qatar
+│      │      Qostanay
+│      │      Qyzylorda
+│      │      Rangoon
+│      │      Riyadh
+│      │      Saigon
+│      │      Sakhalin
+│      │      Samarkand
+│      │      Seoul
+│      │      Shanghai
+│      │      Singapore
+│      │      Srednekolymsk
+│      │      Taipei
+│      │      Tashkent
+│      │      Tbilisi
+│      │      Tehran
+│      │      Tel_Aviv
+│      │      Thimbu
+│      │      Thimphu
+│      │      Tokyo
+│      │      Tomsk
+│      │      Ujung_Pandang
+│      │      Ulaanbaatar
+│      │      Ulan_Bator
+│      │      Urumqi
+│      │      Ust-Nera
+│      │      Vientiane
+│      │      Vladivostok
+│      │      Yakutsk
+│      │      Yangon
+│      │      Yekaterinburg
+│      │      Yerevan
+│      │      
+│      ├─Atlantic
+│      │      Azores
+│      │      Bermuda
+│      │      Canary
+│      │      Cape_Verde
+│      │      Faeroe
+│      │      Faroe
+│      │      Jan_Mayen
+│      │      Madeira
+│      │      Reykjavik
+│      │      South_Georgia
+│      │      Stanley
+│      │      St_Helena
+│      │      
+│      ├─Australia
+│      │      ACT
+│      │      Adelaide
+│      │      Brisbane
+│      │      Broken_Hill
+│      │      Canberra
+│      │      Currie
+│      │      Darwin
+│      │      Eucla
+│      │      Hobart
+│      │      LHI
+│      │      Lindeman
+│      │      Lord_Howe
+│      │      Melbourne
+│      │      North
+│      │      NSW
+│      │      Perth
+│      │      Queensland
+│      │      South
+│      │      Sydney
+│      │      Tasmania
+│      │      Victoria
+│      │      West
+│      │      Yancowinna
+│      │      
+│      ├─Brazil
+│      │      Acre
+│      │      DeNoronha
+│      │      East
+│      │      West
+│      │      
+│      ├─Canada
+│      │      Atlantic
+│      │      Central
+│      │      Eastern
+│      │      Mountain
+│      │      Newfoundland
+│      │      Pacific
+│      │      Saskatchewan
+│      │      Yukon
+│      │      
+│      ├─Chile
+│      │      Continental
+│      │      EasterIsland
+│      │      
+│      ├─Etc
+│      │      GMT
+│      │      GMT+0
+│      │      GMT+1
+│      │      GMT+10
+│      │      GMT+11
+│      │      GMT+12
+│      │      GMT+2
+│      │      GMT+3
+│      │      GMT+4
+│      │      GMT+5
+│      │      GMT+6
+│      │      GMT+7
+│      │      GMT+8
+│      │      GMT+9
+│      │      GMT-0
+│      │      GMT-1
+│      │      GMT-10
+│      │      GMT-11
+│      │      GMT-12
+│      │      GMT-13
+│      │      GMT-14
+│      │      GMT-2
+│      │      GMT-3
+│      │      GMT-4
+│      │      GMT-5
+│      │      GMT-6
+│      │      GMT-7
+│      │      GMT-8
+│      │      GMT-9
+│      │      GMT0
+│      │      Greenwich
+│      │      UCT
+│      │      Universal
+│      │      UTC
+│      │      Zulu
+│      │      
+│      ├─Europe
+│      │      Amsterdam
+│      │      Andorra
+│      │      Astrakhan
+│      │      Athens
+│      │      Belfast
+│      │      Belgrade
+│      │      Berlin
+│      │      Bratislava
+│      │      Brussels
+│      │      Bucharest
+│      │      Budapest
+│      │      Busingen
+│      │      Chisinau
+│      │      Copenhagen
+│      │      Dublin
+│      │      Gibraltar
+│      │      Guernsey
+│      │      Helsinki
+│      │      Isle_of_Man
+│      │      Istanbul
+│      │      Jersey
+│      │      Kaliningrad
+│      │      Kiev
+│      │      Kirov
+│      │      Lisbon
+│      │      Ljubljana
+│      │      London
+│      │      Luxembourg
+│      │      Madrid
+│      │      Malta
+│      │      Mariehamn
+│      │      Minsk
+│      │      Monaco
+│      │      Moscow
+│      │      Nicosia
+│      │      Oslo
+│      │      Paris
+│      │      Podgorica
+│      │      Prague
+│      │      Riga
+│      │      Rome
+│      │      Samara
+│      │      San_Marino
+│      │      Sarajevo
+│      │      Saratov
+│      │      Simferopol
+│      │      Skopje
+│      │      Sofia
+│      │      Stockholm
+│      │      Tallinn
+│      │      Tirane
+│      │      Tiraspol
+│      │      Ulyanovsk
+│      │      Uzhgorod
+│      │      Vaduz
+│      │      Vatican
+│      │      Vienna
+│      │      Vilnius
+│      │      Volgograd
+│      │      Warsaw
+│      │      Zagreb
+│      │      Zaporozhye
+│      │      Zurich
+│      │      
+│      ├─Indian
+│      │      Antananarivo
+│      │      Chagos
+│      │      Christmas
+│      │      Cocos
+│      │      Comoro
+│      │      Kerguelen
+│      │      Mahe
+│      │      Maldives
+│      │      Mauritius
+│      │      Mayotte
+│      │      Reunion
+│      │      
+│      ├─Mexico
+│      │      BajaNorte
+│      │      BajaSur
+│      │      General
+│      │      
+│      ├─Pacific
+│      │      Apia
+│      │      Auckland
+│      │      Bougainville
+│      │      Chatham
+│      │      Chuuk
+│      │      Easter
+│      │      Efate
+│      │      Enderbury
+│      │      Fakaofo
+│      │      Fiji
+│      │      Funafuti
+│      │      Galapagos
+│      │      Gambier
+│      │      Guadalcanal
+│      │      Guam
+│      │      Honolulu
+│      │      Johnston
+│      │      Kiritimati
+│      │      Kosrae
+│      │      Kwajalein
+│      │      Majuro
+│      │      Marquesas
+│      │      Midway
+│      │      Nauru
+│      │      Niue
+│      │      Norfolk
+│      │      Noumea
+│      │      Pago_Pago
+│      │      Palau
+│      │      Pitcairn
+│      │      Pohnpei
+│      │      Ponape
+│      │      Port_Moresby
+│      │      Rarotonga
+│      │      Saipan
+│      │      Samoa
+│      │      Tahiti
+│      │      Tarawa
+│      │      Tongatapu
+│      │      Truk
+│      │      Wake
+│      │      Wallis
+│      │      Yap
+│      │      
+│      └─US
+│              Alaska
+│              Aleutian
+│              Arizona
+│              Central
+│              East-Indiana
+│              Eastern
+│              Hawaii
+│              Indiana-Starke
+│              Michigan
+│              Mountain
+│              Pacific
+│              Samoa
+│              
+├─pywt
+│  └─_extensions
+│          _cwt.cp37-win_amd64.pyd
+│          _dwt.cp37-win_amd64.pyd
+│          _pywt.cp37-win_amd64.pyd
+│          _swt.cp37-win_amd64.pyd
+│          
+├─scipy
+│  ├─fftpack
+│  │      convolve.cp37-win_amd64.pyd
+│  │      _fftpack.cp37-win_amd64.pyd
+│  │      
+│  ├─integrate
+│  │      lsoda.cp37-win_amd64.pyd
+│  │      vode.cp37-win_amd64.pyd
+│  │      _dop.cp37-win_amd64.pyd
+│  │      _odepack.cp37-win_amd64.pyd
+│  │      _quadpack.cp37-win_amd64.pyd
+│  │      
+│  ├─interpolate
+│  │      dfitpack.cp37-win_amd64.pyd
+│  │      interpnd.cp37-win_amd64.pyd
+│  │      _bspl.cp37-win_amd64.pyd
+│  │      _fitpack.cp37-win_amd64.pyd
+│  │      _ppoly.cp37-win_amd64.pyd
+│  │      
+│  ├─io
+│  │  └─matlab
+│  │          mio5_utils.cp37-win_amd64.pyd
+│  │          mio_utils.cp37-win_amd64.pyd
+│  │          streams.cp37-win_amd64.pyd
+│  │          
+│  ├─linalg
+│  │      cython_blas.cp37-win_amd64.pyd
+│  │      cython_lapack.cp37-win_amd64.pyd
+│  │      _decomp_update.cp37-win_amd64.pyd
+│  │      _fblas.cp37-win_amd64.pyd
+│  │      _flapack.cp37-win_amd64.pyd
+│  │      _flinalg.cp37-win_amd64.pyd
+│  │      _solve_toeplitz.cp37-win_amd64.pyd
+│  │      
+│  ├─ndimage
+│  │      _nd_image.cp37-win_amd64.pyd
+│  │      _ni_label.cp37-win_amd64.pyd
+│  │      
+│  ├─optimize
+│  │  │  minpack2.cp37-win_amd64.pyd
+│  │  │  moduleTNC.cp37-win_amd64.pyd
+│  │  │  _cobyla.cp37-win_amd64.pyd
+│  │  │  _group_columns.cp37-win_amd64.pyd
+│  │  │  _lbfgsb.cp37-win_amd64.pyd
+│  │  │  _minpack.cp37-win_amd64.pyd
+│  │  │  _nnls.cp37-win_amd64.pyd
+│  │  │  _slsqp.cp37-win_amd64.pyd
+│  │  │  _zeros.cp37-win_amd64.pyd
+│  │  │  
+│  │  ├─_lsq
+│  │  │      givens_elimination.cp37-win_amd64.pyd
+│  │  │      
+│  │  └─_trlib
+│  │          _trlib.cp37-win_amd64.pyd
+│  │          
+│  ├─signal
+│  │      sigtools.cp37-win_amd64.pyd
+│  │      spline.cp37-win_amd64.pyd
+│  │      _max_len_seq_inner.cp37-win_amd64.pyd
+│  │      _peak_finding_utils.cp37-win_amd64.pyd
+│  │      _spectral.cp37-win_amd64.pyd
+│  │      _upfirdn_apply.cp37-win_amd64.pyd
+│  │      
+│  ├─sparse
+│  │  │  _csparsetools.cp37-win_amd64.pyd
+│  │  │  _sparsetools.cp37-win_amd64.pyd
+│  │  │  
+│  │  ├─csgraph
+│  │  │      _min_spanning_tree.cp37-win_amd64.pyd
+│  │  │      _reordering.cp37-win_amd64.pyd
+│  │  │      _shortest_path.cp37-win_amd64.pyd
+│  │  │      _tools.cp37-win_amd64.pyd
+│  │  │      _traversal.cp37-win_amd64.pyd
+│  │  │      
+│  │  └─linalg
+│  │      ├─dsolve
+│  │      │      _superlu.cp37-win_amd64.pyd
+│  │      │      
+│  │      ├─eigen
+│  │      │  └─arpack
+│  │      │          _arpack.cp37-win_amd64.pyd
+│  │      │          
+│  │      └─isolve
+│  │              _iterative.cp37-win_amd64.pyd
+│  │              
+│  ├─spatial
+│  │      ckdtree.cp37-win_amd64.pyd
+│  │      qhull.cp37-win_amd64.pyd
+│  │      _distance_wrap.cp37-win_amd64.pyd
+│  │      _hausdorff.cp37-win_amd64.pyd
+│  │      _voronoi.cp37-win_amd64.pyd
+│  │      
+│  ├─special
+│  │      specfun.cp37-win_amd64.pyd
+│  │      _comb.cp37-win_amd64.pyd
+│  │      _ellip_harm_2.cp37-win_amd64.pyd
+│  │      _ufuncs.cp37-win_amd64.pyd
+│  │      _ufuncs_cxx.cp37-win_amd64.pyd
+│  │      
+│  ├─stats
+│  │      mvn.cp37-win_amd64.pyd
+│  │      statlib.cp37-win_amd64.pyd
+│  │      _stats.cp37-win_amd64.pyd
+│  │      
+│  └─_lib
+│          messagestream.cp37-win_amd64.pyd
+│          _ccallback_c.cp37-win_amd64.pyd
+│          _fpumode.cp37-win_amd64.pyd
+│          
+├─site-packages
+│  └─torch
+│      └─lib
+│              c10.dll
+│              c10_cuda.dll
+│              caffe2.dll
+│              caffe2_detectron_ops_gpu.dll
+│              caffe2_gpu.dll
+│              caffe2_module_test_dynamic.dll
+│              caffe2_observers.dll
+│              cublas64_100.dll
+│              cudart64_100.dll
+│              cudnn64_7.dll
+│              cufft64_100.dll
+│              cufftw64_100.dll
+│              curand64_100.dll
+│              cusparse64_100.dll
+│              nvcuda.dll
+│              nvfatbinaryLoader.dll
+│              nvrtc-builtins64_100.dll
+│              nvrtc64_100_0.dll
+│              nvToolsExt64_1.dll
+│              onnxifi.dll
+│              onnxifi_dummy.dll
+│              shm.dll
+│              torch.dll
+│              torch_python.dll
+│              
+├─skimage
+│  ├─color
+│  │  └─tests
+│  │      │  ciede2000_test_data.txt
+│  │      │  
+│  │      └─data
+│  │              lab_array_a_2.npy
+│  │              lab_array_d50_10.npy
+│  │              lab_array_d50_2.npy
+│  │              lab_array_d55_10.npy
+│  │              lab_array_d55_2.npy
+│  │              lab_array_d65_10.npy
+│  │              lab_array_d65_2.npy
+│  │              lab_array_d75_10.npy
+│  │              lab_array_d75_2.npy
+│  │              lab_array_e_2.npy
+│  │              luv_array_a_2.npy
+│  │              luv_array_d50_10.npy
+│  │              luv_array_d50_2.npy
+│  │              luv_array_d55_10.npy
+│  │              luv_array_d55_2.npy
+│  │              luv_array_d65_10.npy
+│  │              luv_array_d65_2.npy
+│  │              luv_array_d75_10.npy
+│  │              luv_array_d75_2.npy
+│  │              luv_array_e_2.npy
+│  │              
+│  ├─data
+│  │      astronaut.png
+│  │      astronaut_GRAY_hog_L1.npy
+│  │      astronaut_GRAY_hog_L2-Hys.npy
+│  │      block.png
+│  │      brick.png
+│  │      bw_text.png
+│  │      bw_text_skeleton.npy
+│  │      camera.png
+│  │      checker_bilevel.png
+│  │      chelsea.png
+│  │      chessboard_GRAY.png
+│  │      chessboard_GRAY_U16.tif
+│  │      chessboard_GRAY_U16B.tif
+│  │      chessboard_GRAY_U8.npy
+│  │      chessboard_GRAY_U8.npz
+│  │      chessboard_RGB.png
+│  │      chessboard_RGB_U8.npy
+│  │      chessboard_RGB_U8.npz
+│  │      clock_motion.png
+│  │      coffee.png
+│  │      coins.png
+│  │      color.png
+│  │      diamond-matlab-output.npz
+│  │      disk-matlab-output.npz
+│  │      foo3x5x4indexed.png
+│  │      grass.png
+│  │      gray_morph_output.npz
+│  │      green_palette.png
+│  │      horse.png
+│  │      hubble_deep_field.jpg
+│  │      ihc.png
+│  │      lfw_subset.npy
+│  │      logo.png
+│  │      moon.png
+│  │      motorcycle_disp.npz
+│  │      motorcycle_left.png
+│  │      motorcycle_right.png
+│  │      mssim_matlab_output.npz
+│  │      multi.fits
+│  │      multipage.tif
+│  │      multipage_rgb.tif
+│  │      no_time_for_that_tiny.gif
+│  │      orb_descriptor_positions.txt
+│  │      page.png
+│  │      palette_color.png
+│  │      palette_gray.png
+│  │      phantom.png
+│  │      rank_filter_tests.npz
+│  │      rocket.jpg
+│  │      rough-wall.png
+│  │      simple.fits
+│  │      text.png
+│  │      truncated.jpg
+│  │      _blobs_3d_fiji_skeleton.tif
+│  │      
+│  ├─draw
+│  │      _draw.cp37-win_amd64.pyd
+│  │      
+│  ├─external
+│  │  └─tifffile
+│  │          _tifffile.cp37-win_amd64.pyd
+│  │          
+│  ├─feature
+│  │      brief_cy.cp37-win_amd64.pyd
+│  │      censure_cy.cp37-win_amd64.pyd
+│  │      corner_cy.cp37-win_amd64.pyd
+│  │      orb_cy.cp37-win_amd64.pyd
+│  │      _haar.cp37-win_amd64.pyd
+│  │      _hessian_det_appx.cp37-win_amd64.pyd
+│  │      _hoghistogram.cp37-win_amd64.pyd
+│  │      _texture.cp37-win_amd64.pyd
+│  │      
+│  ├─filters
+│  │  └─rank
+│  │          bilateral_cy.cp37-win_amd64.pyd
+│  │          core_cy.cp37-win_amd64.pyd
+│  │          generic_cy.cp37-win_amd64.pyd
+│  │          percentile_cy.cp37-win_amd64.pyd
+│  │          
+│  ├─io
+│  │  └─_plugins
+│  │          fits_plugin.ini
+│  │          gdal_plugin.ini
+│  │          gtk_plugin.ini
+│  │          imageio_plugin.ini
+│  │          imread_plugin.ini
+│  │          matplotlib_plugin.ini
+│  │          pil_plugin.ini
+│  │          qt_plugin.ini
+│  │          simpleitk_plugin.ini
+│  │          tifffile_plugin.ini
+│  │          _colormixer.cp37-win_amd64.pyd
+│  │          _histograms.cp37-win_amd64.pyd
+│  │          
+│  ├─measure
+│  │      _ccomp.cp37-win_amd64.pyd
+│  │      _find_contours_cy.cp37-win_amd64.pyd
+│  │      _marching_cubes_classic_cy.cp37-win_amd64.pyd
+│  │      _marching_cubes_lewiner_cy.cp37-win_amd64.pyd
+│  │      _moments_cy.cp37-win_amd64.pyd
+│  │      _pnpoly.cp37-win_amd64.pyd
+│  │      
+│  ├─morphology
+│  │      _convex_hull.cp37-win_amd64.pyd
+│  │      _greyreconstruct.cp37-win_amd64.pyd
+│  │      _skeletonize_3d_cy.cp37-win_amd64.pyd
+│  │      _skeletonize_cy.cp37-win_amd64.pyd
+│  │      _watershed.cp37-win_amd64.pyd
+│  │      
+│  ├─restoration
+│  │  │  _denoise_cy.cp37-win_amd64.pyd
+│  │  │  _nl_means_denoising.cp37-win_amd64.pyd
+│  │  │  _unwrap_1d.cp37-win_amd64.pyd
+│  │  │  _unwrap_2d.cp37-win_amd64.pyd
+│  │  │  _unwrap_3d.cp37-win_amd64.pyd
+│  │  │  
+│  │  └─tests
+│  │          camera_rl.npy
+│  │          camera_unsup.npy
+│  │          camera_unsup2.npy
+│  │          camera_wiener.npy
+│  │          
+│  ├─segmentation
+│  │      _felzenszwalb_cy.cp37-win_amd64.pyd
+│  │      _quickshift_cy.cp37-win_amd64.pyd
+│  │      _slic.cp37-win_amd64.pyd
+│  │      
+│  ├─transform
+│  │      _hough_transform.cp37-win_amd64.pyd
+│  │      _radon_transform.cp37-win_amd64.pyd
+│  │      _seam_carving.cp37-win_amd64.pyd
+│  │      _warps_cy.cp37-win_amd64.pyd
+│  │      
+│  └─_shared
+│          geometry.cp37-win_amd64.pyd
+│          transform.cp37-win_amd64.pyd
+│          
+├─sklearn
+│  ├─datasets
+│  │  ├─data
+│  │  │      boston_house_prices.csv
+│  │  │      breast_cancer.csv
+│  │  │      diabetes_data.csv.gz
+│  │  │      diabetes_target.csv.gz
+│  │  │      digits.csv.gz
+│  │  │      iris.csv
+│  │  │      linnerud_exercise.csv
+│  │  │      linnerud_physiological.csv
+│  │  │      wine_data.csv
+│  │  │      
+│  │  ├─descr
+│  │  │      boston_house_prices.rst
+│  │  │      breast_cancer.rst
+│  │  │      diabetes.rst
+│  │  │      digits.rst
+│  │  │      iris.rst
+│  │  │      linnerud.rst
+│  │  │      wine_data.rst
+│  │  │      
+│  │  ├─images
+│  │  │      china.jpg
+│  │  │      flower.jpg
+│  │  │      README.txt
+│  │  │      
+│  │  └─tests
+│  │      └─data
+│  │              svmlight_classification.txt
+│  │              svmlight_invalid.txt
+│  │              svmlight_invalid_order.txt
+│  │              svmlight_multilabel.txt
+│  │              
+│  ├─metrics
+│  │  │  pairwise_fast.cp37-win_amd64.pyd
+│  │  │  
+│  │  └─cluster
+│  │          expected_mutual_info_fast.cp37-win_amd64.pyd
+│  │          
+│  ├─utils
+│  │      lgamma.cp37-win_amd64.pyd
+│  │      murmurhash.cp37-win_amd64.pyd
+│  │      sparsefuncs_fast.cp37-win_amd64.pyd
+│  │      weight_vector.cp37-win_amd64.pyd
+│  │      _logistic_sigmoid.cp37-win_amd64.pyd
+│  │      _random.cp37-win_amd64.pyd
+│  │      
+│  └─__check_build
+│          _check_build.cp37-win_amd64.pyd
+│          
+├─tcl
+│  │  auto.tcl
+│  │  clock.tcl
+│  │  history.tcl
+│  │  init.tcl
+│  │  package.tcl
+│  │  parray.tcl
+│  │  safe.tcl
+│  │  tclIndex
+│  │  tm.tcl
+│  │  word.tcl
+│  │  
+│  ├─encoding
+│  │      ascii.enc
+│  │      big5.enc
+│  │      cp1250.enc
+│  │      cp1251.enc
+│  │      cp1252.enc
+│  │      cp1253.enc
+│  │      cp1254.enc
+│  │      cp1255.enc
+│  │      cp1256.enc
+│  │      cp1257.enc
+│  │      cp1258.enc
+│  │      cp437.enc
+│  │      cp737.enc
+│  │      cp775.enc
+│  │      cp850.enc
+│  │      cp852.enc
+│  │      cp855.enc
+│  │      cp857.enc
+│  │      cp860.enc
+│  │      cp861.enc
+│  │      cp862.enc
+│  │      cp863.enc
+│  │      cp864.enc
+│  │      cp865.enc
+│  │      cp866.enc
+│  │      cp869.enc
+│  │      cp874.enc
+│  │      cp932.enc
+│  │      cp936.enc
+│  │      cp949.enc
+│  │      cp950.enc
+│  │      dingbats.enc
+│  │      ebcdic.enc
+│  │      euc-cn.enc
+│  │      euc-jp.enc
+│  │      euc-kr.enc
+│  │      gb12345.enc
+│  │      gb1988.enc
+│  │      gb2312-raw.enc
+│  │      gb2312.enc
+│  │      iso2022-jp.enc
+│  │      iso2022-kr.enc
+│  │      iso2022.enc
+│  │      iso8859-1.enc
+│  │      iso8859-10.enc
+│  │      iso8859-13.enc
+│  │      iso8859-14.enc
+│  │      iso8859-15.enc
+│  │      iso8859-16.enc
+│  │      iso8859-2.enc
+│  │      iso8859-3.enc
+│  │      iso8859-4.enc
+│  │      iso8859-5.enc
+│  │      iso8859-6.enc
+│  │      iso8859-7.enc
+│  │      iso8859-8.enc
+│  │      iso8859-9.enc
+│  │      jis0201.enc
+│  │      jis0208.enc
+│  │      jis0212.enc
+│  │      koi8-r.enc
+│  │      koi8-u.enc
+│  │      ksc5601.enc
+│  │      macCentEuro.enc
+│  │      macCroatian.enc
+│  │      macCyrillic.enc
+│  │      macDingbats.enc
+│  │      macGreek.enc
+│  │      macIceland.enc
+│  │      macJapan.enc
+│  │      macRoman.enc
+│  │      macRomania.enc
+│  │      macThai.enc
+│  │      macTurkish.enc
+│  │      macUkraine.enc
+│  │      shiftjis.enc
+│  │      symbol.enc
+│  │      tis-620.enc
+│  │      
+│  ├─http1.0
+│  │      http.tcl
+│  │      pkgIndex.tcl
+│  │      
+│  ├─msgs
+│  │      af.msg
+│  │      af_za.msg
+│  │      ar.msg
+│  │      ar_in.msg
+│  │      ar_jo.msg
+│  │      ar_lb.msg
+│  │      ar_sy.msg
+│  │      be.msg
+│  │      bg.msg
+│  │      bn.msg
+│  │      bn_in.msg
+│  │      ca.msg
+│  │      cs.msg
+│  │      da.msg
+│  │      de.msg
+│  │      de_at.msg
+│  │      de_be.msg
+│  │      el.msg
+│  │      en_au.msg
+│  │      en_be.msg
+│  │      en_bw.msg
+│  │      en_ca.msg
+│  │      en_gb.msg
+│  │      en_hk.msg
+│  │      en_ie.msg
+│  │      en_in.msg
+│  │      en_nz.msg
+│  │      en_ph.msg
+│  │      en_sg.msg
+│  │      en_za.msg
+│  │      en_zw.msg
+│  │      eo.msg
+│  │      es.msg
+│  │      es_ar.msg
+│  │      es_bo.msg
+│  │      es_cl.msg
+│  │      es_co.msg
+│  │      es_cr.msg
+│  │      es_do.msg
+│  │      es_ec.msg
+│  │      es_gt.msg
+│  │      es_hn.msg
+│  │      es_mx.msg
+│  │      es_ni.msg
+│  │      es_pa.msg
+│  │      es_pe.msg
+│  │      es_pr.msg
+│  │      es_py.msg
+│  │      es_sv.msg
+│  │      es_uy.msg
+│  │      es_ve.msg
+│  │      et.msg
+│  │      eu.msg
+│  │      eu_es.msg
+│  │      fa.msg
+│  │      fa_in.msg
+│  │      fa_ir.msg
+│  │      fi.msg
+│  │      fo.msg
+│  │      fo_fo.msg
+│  │      fr.msg
+│  │      fr_be.msg
+│  │      fr_ca.msg
+│  │      fr_ch.msg
+│  │      ga.msg
+│  │      ga_ie.msg
+│  │      gl.msg
+│  │      gl_es.msg
+│  │      gv.msg
+│  │      gv_gb.msg
+│  │      he.msg
+│  │      hi.msg
+│  │      hi_in.msg
+│  │      hr.msg
+│  │      hu.msg
+│  │      id.msg
+│  │      id_id.msg
+│  │      is.msg
+│  │      it.msg
+│  │      it_ch.msg
+│  │      ja.msg
+│  │      kl.msg
+│  │      kl_gl.msg
+│  │      ko.msg
+│  │      kok.msg
+│  │      kok_in.msg
+│  │      ko_kr.msg
+│  │      kw.msg
+│  │      kw_gb.msg
+│  │      lt.msg
+│  │      lv.msg
+│  │      mk.msg
+│  │      mr.msg
+│  │      mr_in.msg
+│  │      ms.msg
+│  │      ms_my.msg
+│  │      mt.msg
+│  │      nb.msg
+│  │      nl.msg
+│  │      nl_be.msg
+│  │      nn.msg
+│  │      pl.msg
+│  │      pt.msg
+│  │      pt_br.msg
+│  │      ro.msg
+│  │      ru.msg
+│  │      ru_ua.msg
+│  │      sh.msg
+│  │      sk.msg
+│  │      sl.msg
+│  │      sq.msg
+│  │      sr.msg
+│  │      sv.msg
+│  │      sw.msg
+│  │      ta.msg
+│  │      ta_in.msg
+│  │      te.msg
+│  │      te_in.msg
+│  │      th.msg
+│  │      tr.msg
+│  │      uk.msg
+│  │      vi.msg
+│  │      zh.msg
+│  │      zh_cn.msg
+│  │      zh_hk.msg
+│  │      zh_sg.msg
+│  │      zh_tw.msg
+│  │      
+│  ├─opt0.4
+│  │      optparse.tcl
+│  │      pkgIndex.tcl
+│  │      
+│  └─tzdata
+│      │  CET
+│      │  CST6CDT
+│      │  Cuba
+│      │  EET
+│      │  Egypt
+│      │  Eire
+│      │  EST
+│      │  EST5EDT
+│      │  GB
+│      │  GB-Eire
+│      │  GMT
+│      │  GMT+0
+│      │  GMT-0
+│      │  GMT0
+│      │  Greenwich
+│      │  Hongkong
+│      │  HST
+│      │  Iceland
+│      │  Iran
+│      │  Israel
+│      │  Jamaica
+│      │  Japan
+│      │  Kwajalein
+│      │  Libya
+│      │  MET
+│      │  MST
+│      │  MST7MDT
+│      │  Navajo
+│      │  NZ
+│      │  NZ-CHAT
+│      │  Poland
+│      │  Portugal
+│      │  PRC
+│      │  PST8PDT
+│      │  ROC
+│      │  ROK
+│      │  Singapore
+│      │  Turkey
+│      │  UCT
+│      │  Universal
+│      │  UTC
+│      │  W-SU
+│      │  WET
+│      │  Zulu
+│      │  
+│      ├─Africa
+│      │      Abidjan
+│      │      Accra
+│      │      Addis_Ababa
+│      │      Algiers
+│      │      Asmara
+│      │      Asmera
+│      │      Bamako
+│      │      Bangui
+│      │      Banjul
+│      │      Bissau
+│      │      Blantyre
+│      │      Brazzaville
+│      │      Bujumbura
+│      │      Cairo
+│      │      Casablanca
+│      │      Ceuta
+│      │      Conakry
+│      │      Dakar
+│      │      Dar_es_Salaam
+│      │      Djibouti
+│      │      Douala
+│      │      El_Aaiun
+│      │      Freetown
+│      │      Gaborone
+│      │      Harare
+│      │      Johannesburg
+│      │      Juba
+│      │      Kampala
+│      │      Khartoum
+│      │      Kigali
+│      │      Kinshasa
+│      │      Lagos
+│      │      Libreville
+│      │      Lome
+│      │      Luanda
+│      │      Lubumbashi
+│      │      Lusaka
+│      │      Malabo
+│      │      Maputo
+│      │      Maseru
+│      │      Mbabane
+│      │      Mogadishu
+│      │      Monrovia
+│      │      Nairobi
+│      │      Ndjamena
+│      │      Niamey
+│      │      Nouakchott
+│      │      Ouagadougou
+│      │      Porto-Novo
+│      │      Sao_Tome
+│      │      Timbuktu
+│      │      Tripoli
+│      │      Tunis
+│      │      Windhoek
+│      │      
+│      ├─America
+│      │  │  Adak
+│      │  │  Anchorage
+│      │  │  Anguilla
+│      │  │  Antigua
+│      │  │  Araguaina
+│      │  │  Aruba
+│      │  │  Asuncion
+│      │  │  Atikokan
+│      │  │  Atka
+│      │  │  Bahia
+│      │  │  Bahia_Banderas
+│      │  │  Barbados
+│      │  │  Belem
+│      │  │  Belize
+│      │  │  Blanc-Sablon
+│      │  │  Boa_Vista
+│      │  │  Bogota
+│      │  │  Boise
+│      │  │  Buenos_Aires
+│      │  │  Cambridge_Bay
+│      │  │  Campo_Grande
+│      │  │  Cancun
+│      │  │  Caracas
+│      │  │  Catamarca
+│      │  │  Cayenne
+│      │  │  Cayman
+│      │  │  Chicago
+│      │  │  Chihuahua
+│      │  │  Coral_Harbour
+│      │  │  Cordoba
+│      │  │  Costa_Rica
+│      │  │  Creston
+│      │  │  Cuiaba
+│      │  │  Curacao
+│      │  │  Danmarkshavn
+│      │  │  Dawson
+│      │  │  Dawson_Creek
+│      │  │  Denver
+│      │  │  Detroit
+│      │  │  Dominica
+│      │  │  Edmonton
+│      │  │  Eirunepe
+│      │  │  El_Salvador
+│      │  │  Ensenada
+│      │  │  Fortaleza
+│      │  │  Fort_Nelson
+│      │  │  Fort_Wayne
+│      │  │  Glace_Bay
+│      │  │  Godthab
+│      │  │  Goose_Bay
+│      │  │  Grand_Turk
+│      │  │  Grenada
+│      │  │  Guadeloupe
+│      │  │  Guatemala
+│      │  │  Guayaquil
+│      │  │  Guyana
+│      │  │  Halifax
+│      │  │  Havana
+│      │  │  Hermosillo
+│      │  │  Indianapolis
+│      │  │  Inuvik
+│      │  │  Iqaluit
+│      │  │  Jamaica
+│      │  │  Jujuy
+│      │  │  Juneau
+│      │  │  Knox_IN
+│      │  │  Kralendijk
+│      │  │  La_Paz
+│      │  │  Lima
+│      │  │  Los_Angeles
+│      │  │  Louisville
+│      │  │  Lower_Princes
+│      │  │  Maceio
+│      │  │  Managua
+│      │  │  Manaus
+│      │  │  Marigot
+│      │  │  Martinique
+│      │  │  Matamoros
+│      │  │  Mazatlan
+│      │  │  Mendoza
+│      │  │  Menominee
+│      │  │  Merida
+│      │  │  Metlakatla
+│      │  │  Mexico_City
+│      │  │  Miquelon
+│      │  │  Moncton
+│      │  │  Monterrey
+│      │  │  Montevideo
+│      │  │  Montreal
+│      │  │  Montserrat
+│      │  │  Nassau
+│      │  │  New_York
+│      │  │  Nipigon
+│      │  │  Nome
+│      │  │  Noronha
+│      │  │  Ojinaga
+│      │  │  Panama
+│      │  │  Pangnirtung
+│      │  │  Paramaribo
+│      │  │  Phoenix
+│      │  │  Port-au-Prince
+│      │  │  Porto_Acre
+│      │  │  Porto_Velho
+│      │  │  Port_of_Spain
+│      │  │  Puerto_Rico
+│      │  │  Punta_Arenas
+│      │  │  Rainy_River
+│      │  │  Rankin_Inlet
+│      │  │  Recife
+│      │  │  Regina
+│      │  │  Resolute
+│      │  │  Rio_Branco
+│      │  │  Rosario
+│      │  │  Santarem
+│      │  │  Santa_Isabel
+│      │  │  Santiago
+│      │  │  Santo_Domingo
+│      │  │  Sao_Paulo
+│      │  │  Scoresbysund
+│      │  │  Shiprock
+│      │  │  Sitka
+│      │  │  St_Barthelemy
+│      │  │  St_Johns
+│      │  │  St_Kitts
+│      │  │  St_Lucia
+│      │  │  St_Thomas
+│      │  │  St_Vincent
+│      │  │  Swift_Current
+│      │  │  Tegucigalpa
+│      │  │  Thule
+│      │  │  Thunder_Bay
+│      │  │  Tijuana
+│      │  │  Toronto
+│      │  │  Tortola
+│      │  │  Vancouver
+│      │  │  Virgin
+│      │  │  Whitehorse
+│      │  │  Winnipeg
+│      │  │  Yakutat
+│      │  │  Yellowknife
+│      │  │  
+│      │  ├─Argentina
+│      │  │      Buenos_Aires
+│      │  │      Catamarca
+│      │  │      ComodRivadavia
+│      │  │      Cordoba
+│      │  │      Jujuy
+│      │  │      La_Rioja
+│      │  │      Mendoza
+│      │  │      Rio_Gallegos
+│      │  │      Salta
+│      │  │      San_Juan
+│      │  │      San_Luis
+│      │  │      Tucuman
+│      │  │      Ushuaia
+│      │  │      
+│      │  ├─Indiana
+│      │  │      Indianapolis
+│      │  │      Knox
+│      │  │      Marengo
+│      │  │      Petersburg
+│      │  │      Tell_City
+│      │  │      Vevay
+│      │  │      Vincennes
+│      │  │      Winamac
+│      │  │      
+│      │  ├─Kentucky
+│      │  │      Louisville
+│      │  │      Monticello
+│      │  │      
+│      │  └─North_Dakota
+│      │          Beulah
+│      │          Center
+│      │          New_Salem
+│      │          
+│      ├─Antarctica
+│      │      Casey
+│      │      Davis
+│      │      DumontDUrville
+│      │      Macquarie
+│      │      Mawson
+│      │      McMurdo
+│      │      Palmer
+│      │      Rothera
+│      │      South_Pole
+│      │      Syowa
+│      │      Troll
+│      │      Vostok
+│      │      
+│      ├─Arctic
+│      │      Longyearbyen
+│      │      
+│      ├─Asia
+│      │      Aden
+│      │      Almaty
+│      │      Amman
+│      │      Anadyr
+│      │      Aqtau
+│      │      Aqtobe
+│      │      Ashgabat
+│      │      Ashkhabad
+│      │      Atyrau
+│      │      Baghdad
+│      │      Bahrain
+│      │      Baku
+│      │      Bangkok
+│      │      Barnaul
+│      │      Beirut
+│      │      Bishkek
+│      │      Brunei
+│      │      Calcutta
+│      │      Chita
+│      │      Choibalsan
+│      │      Chongqing
+│      │      Chungking
+│      │      Colombo
+│      │      Dacca
+│      │      Damascus
+│      │      Dhaka
+│      │      Dili
+│      │      Dubai
+│      │      Dushanbe
+│      │      Famagusta
+│      │      Gaza
+│      │      Harbin
+│      │      Hebron
+│      │      Hong_Kong
+│      │      Hovd
+│      │      Ho_Chi_Minh
+│      │      Irkutsk
+│      │      Istanbul
+│      │      Jakarta
+│      │      Jayapura
+│      │      Jerusalem
+│      │      Kabul
+│      │      Kamchatka
+│      │      Karachi
+│      │      Kashgar
+│      │      Kathmandu
+│      │      Katmandu
+│      │      Khandyga
+│      │      Kolkata
+│      │      Krasnoyarsk
+│      │      Kuala_Lumpur
+│      │      Kuching
+│      │      Kuwait
+│      │      Macao
+│      │      Macau
+│      │      Magadan
+│      │      Makassar
+│      │      Manila
+│      │      Muscat
+│      │      Nicosia
+│      │      Novokuznetsk
+│      │      Novosibirsk
+│      │      Omsk
+│      │      Oral
+│      │      Phnom_Penh
+│      │      Pontianak
+│      │      Pyongyang
+│      │      Qatar
+│      │      Qyzylorda
+│      │      Rangoon
+│      │      Riyadh
+│      │      Saigon
+│      │      Sakhalin
+│      │      Samarkand
+│      │      Seoul
+│      │      Shanghai
+│      │      Singapore
+│      │      Srednekolymsk
+│      │      Taipei
+│      │      Tashkent
+│      │      Tbilisi
+│      │      Tehran
+│      │      Tel_Aviv
+│      │      Thimbu
+│      │      Thimphu
+│      │      Tokyo
+│      │      Tomsk
+│      │      Ujung_Pandang
+│      │      Ulaanbaatar
+│      │      Ulan_Bator
+│      │      Urumqi
+│      │      Ust-Nera
+│      │      Vientiane
+│      │      Vladivostok
+│      │      Yakutsk
+│      │      Yangon
+│      │      Yekaterinburg
+│      │      Yerevan
+│      │      
+│      ├─Atlantic
+│      │      Azores
+│      │      Bermuda
+│      │      Canary
+│      │      Cape_Verde
+│      │      Faeroe
+│      │      Faroe
+│      │      Jan_Mayen
+│      │      Madeira
+│      │      Reykjavik
+│      │      South_Georgia
+│      │      Stanley
+│      │      St_Helena
+│      │      
+│      ├─Australia
+│      │      ACT
+│      │      Adelaide
+│      │      Brisbane
+│      │      Broken_Hill
+│      │      Canberra
+│      │      Currie
+│      │      Darwin
+│      │      Eucla
+│      │      Hobart
+│      │      LHI
+│      │      Lindeman
+│      │      Lord_Howe
+│      │      Melbourne
+│      │      North
+│      │      NSW
+│      │      Perth
+│      │      Queensland
+│      │      South
+│      │      Sydney
+│      │      Tasmania
+│      │      Victoria
+│      │      West
+│      │      Yancowinna
+│      │      
+│      ├─Brazil
+│      │      Acre
+│      │      DeNoronha
+│      │      East
+│      │      West
+│      │      
+│      ├─Canada
+│      │      Atlantic
+│      │      Central
+│      │      East-Saskatchewan
+│      │      Eastern
+│      │      Mountain
+│      │      Newfoundland
+│      │      Pacific
+│      │      Saskatchewan
+│      │      Yukon
+│      │      
+│      ├─Chile
+│      │      Continental
+│      │      EasterIsland
+│      │      
+│      ├─Etc
+│      │      GMT
+│      │      GMT+0
+│      │      GMT+1
+│      │      GMT+10
+│      │      GMT+11
+│      │      GMT+12
+│      │      GMT+2
+│      │      GMT+3
+│      │      GMT+4
+│      │      GMT+5
+│      │      GMT+6
+│      │      GMT+7
+│      │      GMT+8
+│      │      GMT+9
+│      │      GMT-0
+│      │      GMT-1
+│      │      GMT-10
+│      │      GMT-11
+│      │      GMT-12
+│      │      GMT-13
+│      │      GMT-14
+│      │      GMT-2
+│      │      GMT-3
+│      │      GMT-4
+│      │      GMT-5
+│      │      GMT-6
+│      │      GMT-7
+│      │      GMT-8
+│      │      GMT-9
+│      │      GMT0
+│      │      Greenwich
+│      │      UCT
+│      │      Universal
+│      │      UTC
+│      │      Zulu
+│      │      
+│      ├─Europe
+│      │      Amsterdam
+│      │      Andorra
+│      │      Astrakhan
+│      │      Athens
+│      │      Belfast
+│      │      Belgrade
+│      │      Berlin
+│      │      Bratislava
+│      │      Brussels
+│      │      Bucharest
+│      │      Budapest
+│      │      Busingen
+│      │      Chisinau
+│      │      Copenhagen
+│      │      Dublin
+│      │      Gibraltar
+│      │      Guernsey
+│      │      Helsinki
+│      │      Isle_of_Man
+│      │      Istanbul
+│      │      Jersey
+│      │      Kaliningrad
+│      │      Kiev
+│      │      Kirov
+│      │      Lisbon
+│      │      Ljubljana
+│      │      London
+│      │      Luxembourg
+│      │      Madrid
+│      │      Malta
+│      │      Mariehamn
+│      │      Minsk
+│      │      Monaco
+│      │      Moscow
+│      │      Nicosia
+│      │      Oslo
+│      │      Paris
+│      │      Podgorica
+│      │      Prague
+│      │      Riga
+│      │      Rome
+│      │      Samara
+│      │      San_Marino
+│      │      Sarajevo
+│      │      Saratov
+│      │      Simferopol
+│      │      Skopje
+│      │      Sofia
+│      │      Stockholm
+│      │      Tallinn
+│      │      Tirane
+│      │      Tiraspol
+│      │      Ulyanovsk
+│      │      Uzhgorod
+│      │      Vaduz
+│      │      Vatican
+│      │      Vienna
+│      │      Vilnius
+│      │      Volgograd
+│      │      Warsaw
+│      │      Zagreb
+│      │      Zaporozhye
+│      │      Zurich
+│      │      
+│      ├─Indian
+│      │      Antananarivo
+│      │      Chagos
+│      │      Christmas
+│      │      Cocos
+│      │      Comoro
+│      │      Kerguelen
+│      │      Mahe
+│      │      Maldives
+│      │      Mauritius
+│      │      Mayotte
+│      │      Reunion
+│      │      
+│      ├─Mexico
+│      │      BajaNorte
+│      │      BajaSur
+│      │      General
+│      │      
+│      ├─Pacific
+│      │      Apia
+│      │      Auckland
+│      │      Bougainville
+│      │      Chatham
+│      │      Chuuk
+│      │      Easter
+│      │      Efate
+│      │      Enderbury
+│      │      Fakaofo
+│      │      Fiji
+│      │      Funafuti
+│      │      Galapagos
+│      │      Gambier
+│      │      Guadalcanal
+│      │      Guam
+│      │      Honolulu
+│      │      Johnston
+│      │      Kiritimati
+│      │      Kosrae
+│      │      Kwajalein
+│      │      Majuro
+│      │      Marquesas
+│      │      Midway
+│      │      Nauru
+│      │      Niue
+│      │      Norfolk
+│      │      Noumea
+│      │      Pago_Pago
+│      │      Palau
+│      │      Pitcairn
+│      │      Pohnpei
+│      │      Ponape
+│      │      Port_Moresby
+│      │      Rarotonga
+│      │      Saipan
+│      │      Samoa
+│      │      Tahiti
+│      │      Tarawa
+│      │      Tongatapu
+│      │      Truk
+│      │      Wake
+│      │      Wallis
+│      │      Yap
+│      │      
+│      ├─SystemV
+│      │      AST4
+│      │      AST4ADT
+│      │      CST6
+│      │      CST6CDT
+│      │      EST5
+│      │      EST5EDT
+│      │      HST10
+│      │      MST7
+│      │      MST7MDT
+│      │      PST8
+│      │      PST8PDT
+│      │      YST9
+│      │      YST9YDT
+│      │      
+│      └─US
+│              Alaska
+│              Aleutian
+│              Arizona
+│              Central
+│              East-Indiana
+│              Eastern
+│              Hawaii
+│              Indiana-Starke
+│              Michigan
+│              Mountain
+│              Pacific
+│              Pacific-New
+│              Samoa
+│              
+├─tk
+│  │  bgerror.tcl
+│  │  button.tcl
+│  │  choosedir.tcl
+│  │  clrpick.tcl
+│  │  comdlg.tcl
+│  │  console.tcl
+│  │  dialog.tcl
+│  │  entry.tcl
+│  │  focus.tcl
+│  │  fontchooser.tcl
+│  │  iconlist.tcl
+│  │  icons.tcl
+│  │  license.terms
+│  │  listbox.tcl
+│  │  megawidget.tcl
+│  │  menu.tcl
+│  │  mkpsenc.tcl
+│  │  msgbox.tcl
+│  │  obsolete.tcl
+│  │  optMenu.tcl
+│  │  palette.tcl
+│  │  panedwindow.tcl
+│  │  pkgIndex.tcl
+│  │  safetk.tcl
+│  │  scale.tcl
+│  │  scrlbar.tcl
+│  │  spinbox.tcl
+│  │  tclIndex
+│  │  tearoff.tcl
+│  │  text.tcl
+│  │  tk.tcl
+│  │  tkfbox.tcl
+│  │  unsupported.tcl
+│  │  xmfbox.tcl
+│  │  
+│  ├─images
+│  │      logo.eps
+│  │      logo100.gif
+│  │      logo64.gif
+│  │      logoLarge.gif
+│  │      logoMed.gif
+│  │      pwrdLogo.eps
+│  │      pwrdLogo100.gif
+│  │      pwrdLogo150.gif
+│  │      pwrdLogo175.gif
+│  │      pwrdLogo200.gif
+│  │      pwrdLogo75.gif
+│  │      README
+│  │      tai-ku.gif
+│  │      
+│  ├─msgs
+│  │      cs.msg
+│  │      da.msg
+│  │      de.msg
+│  │      el.msg
+│  │      en.msg
+│  │      en_gb.msg
+│  │      eo.msg
+│  │      es.msg
+│  │      fr.msg
+│  │      hu.msg
+│  │      it.msg
+│  │      nl.msg
+│  │      pl.msg
+│  │      pt.msg
+│  │      ru.msg
+│  │      sv.msg
+│  │      
+│  └─ttk
+│          altTheme.tcl
+│          aquaTheme.tcl
+│          button.tcl
+│          clamTheme.tcl
+│          classicTheme.tcl
+│          combobox.tcl
+│          cursors.tcl
+│          defaults.tcl
+│          entry.tcl
+│          fonts.tcl
+│          menubutton.tcl
+│          notebook.tcl
+│          panedwindow.tcl
+│          progress.tcl
+│          scale.tcl
+│          scrollbar.tcl
+│          sizegrip.tcl
+│          spinbox.tcl
+│          treeview.tcl
+│          ttk.tcl
+│          utils.tcl
+│          vistaTheme.tcl
+│          winTheme.tcl
+│          xpTheme.tcl
+│          
+├─torch
+│  │  functional.py
+│  │  hub.py
+│  │  random.py
+│  │  serialization.py
+│  │  storage.py
+│  │  tensor.py
+│  │  version.py
+│  │  _C.cp37-win_amd64.pyd
+│  │  _jit_internal.py
+│  │  _nvrtc.cp37-win_amd64.pyd
+│  │  _ops.py
+│  │  _six.py
+│  │  _storage_docs.py
+│  │  _tensor_docs.py
+│  │  _tensor_str.py
+│  │  _torch_docs.py
+│  │  _utils.py
+│  │  _utils_internal.py
+│  │  __init__.py
+│  │  
+│  ├─autograd
+│  │  │  anomaly_mode.py
+│  │  │  function.py
+│  │  │  gradcheck.py
+│  │  │  grad_mode.py
+│  │  │  profiler.py
+│  │  │  variable.py
+│  │  │  __init__.py
+│  │  │  
+│  │  ├─_functions
+│  │  │  │  tensor.py
+│  │  │  │  utils.py
+│  │  │  │  __init__.py
+│  │  │  │  
+│  │  │  └─__pycache__
+│  │  │          tensor.cpython-37.pyc
+│  │  │          utils.cpython-37.pyc
+│  │  │          __init__.cpython-37.pyc
+│  │  │          
+│  │  └─__pycache__
+│  │          anomaly_mode.cpython-37.pyc
+│  │          function.cpython-37.pyc
+│  │          gradcheck.cpython-37.pyc
+│  │          grad_mode.cpython-37.pyc
+│  │          profiler.cpython-37.pyc
+│  │          variable.cpython-37.pyc
+│  │          __init__.cpython-37.pyc
+│  │          
+│  ├─backends
+│  │  │  __init__.py
+│  │  │  
+│  │  ├─cuda
+│  │  │  │  __init__.py
+│  │  │  │  
+│  │  │  └─__pycache__
+│  │  │          __init__.cpython-37.pyc
+│  │  │          
+│  │  ├─cudnn
+│  │  │  │  rnn.py
+│  │  │  │  __init__.py
+│  │  │  │  
+│  │  │  └─__pycache__
+│  │  │          rnn.cpython-37.pyc
+│  │  │          __init__.cpython-37.pyc
+│  │  │          
+│  │  ├─mkl
+│  │  │  │  __init__.py
+│  │  │  │  
+│  │  │  └─__pycache__
+│  │  │          __init__.cpython-37.pyc
+│  │  │          
+│  │  └─__pycache__
+│  │          __init__.cpython-37.pyc
+│  │          
+│  ├─contrib
+│  │  │  _graph_vis.py
+│  │  │  _tensorboard_vis.py
+│  │  │  __init__.py
+│  │  │  
+│  │  └─__pycache__
+│  │          _graph_vis.cpython-37.pyc
+│  │          _tensorboard_vis.cpython-37.pyc
+│  │          __init__.cpython-37.pyc
+│  │          
+│  ├─cuda
+│  │  │  comm.py
+│  │  │  error.py
+│  │  │  nccl.py
+│  │  │  nvtx.py
+│  │  │  profiler.py
+│  │  │  random.py
+│  │  │  sparse.py
+│  │  │  streams.py
+│  │  │  _utils.py
+│  │  │  __init__.py
+│  │  │  
+│  │  └─__pycache__
+│  │          comm.cpython-37.pyc
+│  │          error.cpython-37.pyc
+│  │          nccl.cpython-37.pyc
+│  │          nvtx.cpython-37.pyc
+│  │          profiler.cpython-37.pyc
+│  │          random.cpython-37.pyc
+│  │          sparse.cpython-37.pyc
+│  │          streams.cpython-37.pyc
+│  │          _utils.cpython-37.pyc
+│  │          __init__.cpython-37.pyc
+│  │          
+│  ├─distributed
+│  │  │  distributed_c10d.py
+│  │  │  launch.py
+│  │  │  rendezvous.py
+│  │  │  __init__.py
+│  │  │  
+│  │  ├─deprecated
+│  │  │  │  remote_types.py
+│  │  │  │  __init__.py
+│  │  │  │  
+│  │  │  └─__pycache__
+│  │  │          remote_types.cpython-37.pyc
+│  │  │          __init__.cpython-37.pyc
+│  │  │          
+│  │  └─__pycache__
+│  │          distributed_c10d.cpython-37.pyc
+│  │          launch.cpython-37.pyc
+│  │          rendezvous.cpython-37.pyc
+│  │          __init__.cpython-37.pyc
+│  │          
+│  ├─distributions
+│  │  │  bernoulli.py
+│  │  │  beta.py
+│  │  │  binomial.py
+│  │  │  categorical.py
+│  │  │  cauchy.py
+│  │  │  chi2.py
+│  │  │  constraints.py
+│  │  │  constraint_registry.py
+│  │  │  dirichlet.py
+│  │  │  distribution.py
+│  │  │  exponential.py
+│  │  │  exp_family.py
+│  │  │  fishersnedecor.py
+│  │  │  gamma.py
+│  │  │  geometric.py
+│  │  │  gumbel.py
+│  │  │  half_cauchy.py
+│  │  │  half_normal.py
+│  │  │  independent.py
+│  │  │  kl.py
+│  │  │  laplace.py
+│  │  │  logistic_normal.py
+│  │  │  log_normal.py
+│  │  │  lowrank_multivariate_normal.py
+│  │  │  multinomial.py
+│  │  │  multivariate_normal.py
+│  │  │  negative_binomial.py
+│  │  │  normal.py
+│  │  │  one_hot_categorical.py
+│  │  │  pareto.py
+│  │  │  poisson.py
+│  │  │  relaxed_bernoulli.py
+│  │  │  relaxed_categorical.py
+│  │  │  studentT.py
+│  │  │  transformed_distribution.py
+│  │  │  transforms.py
+│  │  │  uniform.py
+│  │  │  utils.py
+│  │  │  weibull.py
+│  │  │  __init__.py
+│  │  │  
+│  │  └─__pycache__
+│  │          bernoulli.cpython-37.pyc
+│  │          beta.cpython-37.pyc
+│  │          binomial.cpython-37.pyc
+│  │          categorical.cpython-37.pyc
+│  │          cauchy.cpython-37.pyc
+│  │          chi2.cpython-37.pyc
+│  │          constraints.cpython-37.pyc
+│  │          constraint_registry.cpython-37.pyc
+│  │          dirichlet.cpython-37.pyc
+│  │          distribution.cpython-37.pyc
+│  │          exponential.cpython-37.pyc
+│  │          exp_family.cpython-37.pyc
+│  │          fishersnedecor.cpython-37.pyc
+│  │          gamma.cpython-37.pyc
+│  │          geometric.cpython-37.pyc
+│  │          gumbel.cpython-37.pyc
+│  │          half_cauchy.cpython-37.pyc
+│  │          half_normal.cpython-37.pyc
+│  │          independent.cpython-37.pyc
+│  │          kl.cpython-37.pyc
+│  │          laplace.cpython-37.pyc
+│  │          logistic_normal.cpython-37.pyc
+│  │          log_normal.cpython-37.pyc
+│  │          lowrank_multivariate_normal.cpython-37.pyc
+│  │          multinomial.cpython-37.pyc
+│  │          multivariate_normal.cpython-37.pyc
+│  │          negative_binomial.cpython-37.pyc
+│  │          normal.cpython-37.pyc
+│  │          one_hot_categorical.cpython-37.pyc
+│  │          pareto.cpython-37.pyc
+│  │          poisson.cpython-37.pyc
+│  │          relaxed_bernoulli.cpython-37.pyc
+│  │          relaxed_categorical.cpython-37.pyc
+│  │          studentT.cpython-37.pyc
+│  │          transformed_distribution.cpython-37.pyc
+│  │          transforms.cpython-37.pyc
+│  │          uniform.cpython-37.pyc
+│  │          utils.cpython-37.pyc
+│  │          weibull.cpython-37.pyc
+│  │          __init__.cpython-37.pyc
+│  │          
+│  ├─for_onnx
+│  │  │  __init__.py
+│  │  │  
+│  │  └─__pycache__
+│  │          __init__.cpython-37.pyc
+│  │          
+│  ├─jit
+│  │  │  annotations.py
+│  │  │  batchop.py
+│  │  │  frontend.py
+│  │  │  supported_ops.py
+│  │  │  __init__.py
+│  │  │  
+│  │  └─__pycache__
+│  │          annotations.cpython-37.pyc
+│  │          batchop.cpython-37.pyc
+│  │          frontend.cpython-37.pyc
+│  │          supported_ops.cpython-37.pyc
+│  │          __init__.cpython-37.pyc
+│  │          
+│  ├─lib
+│  │  │  c10.dll
+│  │  │  c10.lib
+│  │  │  c10_cuda.dll
+│  │  │  c10_cuda.lib
+│  │  │  caffe2.dll
+│  │  │  caffe2.lib
+│  │  │  caffe2_detectron_ops_gpu.dll
+│  │  │  caffe2_detectron_ops_gpu.lib
+│  │  │  caffe2_gpu.dll
+│  │  │  caffe2_gpu.lib
+│  │  │  caffe2_module_test_dynamic.dll
+│  │  │  caffe2_module_test_dynamic.lib
+│  │  │  caffe2_observers.dll
+│  │  │  caffe2_observers.lib
+│  │  │  clog.lib
+│  │  │  cpuinfo.lib
+│  │  │  cublas64_100.dll
+│  │  │  cudart64_100.dll
+│  │  │  cudnn64_7.dll
+│  │  │  cufft64_100.dll
+│  │  │  cufftw64_100.dll
+│  │  │  curand64_100.dll
+│  │  │  cusparse64_100.dll
+│  │  │  libprotobuf-lite.lib
+│  │  │  libprotobuf.lib
+│  │  │  libprotoc.lib
+│  │  │  nvcuda.dll
+│  │  │  nvfatbinaryLoader.dll
+│  │  │  nvrtc-builtins64_100.dll
+│  │  │  nvrtc64_100_0.dll
+│  │  │  nvToolsExt64_1.dll
+│  │  │  onnx.lib
+│  │  │  onnxifi.dll
+│  │  │  onnxifi_dummy.dll
+│  │  │  onnxifi_dummy.lib
+│  │  │  onnxifi_loader.lib
+│  │  │  onnx_proto.lib
+│  │  │  shm.dll
+│  │  │  shm.lib
+│  │  │  THCUNN.h
+│  │  │  THNN.h
+│  │  │  torch.dll
+│  │  │  torch.lib
+│  │  │  torch_python.dll
+│  │  │  torch_python.lib
+│  │  │  _C.lib
+│  │  │  
+│  │  └─include
+│  │      ├─ATen
+│  │      │  │  AccumulateType.h
+│  │      │  │  Allocator.h
+│  │      │  │  ArrayRef.h
+│  │      │  │  ATen.h
+│  │      │  │  Backend.h
+│  │      │  │  Backtrace.h
+│  │      │  │  CheckGenerator.h
+│  │      │  │  Config.h
+│  │      │  │  Context.h
+│  │      │  │  CPUApplyUtils.h
+│  │      │  │  CPUByteType.h
+│  │      │  │  CPUCharType.h
+│  │      │  │  CPUDoubleType.h
+│  │      │  │  CPUFixedAllocator.h
+│  │      │  │  CPUFloatType.h
+│  │      │  │  CPUGeneral.h
+│  │      │  │  CPUGenerator.h
+│  │      │  │  CPUHalfType.h
+│  │      │  │  CPUIntType.h
+│  │      │  │  CPULongType.h
+│  │      │  │  CPUShortType.h
+│  │      │  │  CPUTypeDefault.h
+│  │      │  │  CUDAByteType.h
+│  │      │  │  CUDACharType.h
+│  │      │  │  CUDADoubleType.h
+│  │      │  │  CUDAFloatType.h
+│  │      │  │  CUDAGenerator.h
+│  │      │  │  CUDAHalfType.h
+│  │      │  │  CUDAIntType.h
+│  │      │  │  CUDALongType.h
+│  │      │  │  CUDAShortType.h
+│  │      │  │  Device.h
+│  │      │  │  DeviceGuard.h
+│  │      │  │  DimVector.h
+│  │      │  │  Dispatch.h
+│  │      │  │  div_rtn.h
+│  │      │  │  DLConvertor.h
+│  │      │  │  dlpack.h
+│  │      │  │  ExpandUtils.h
+│  │      │  │  Formatting.h
+│  │      │  │  Functions.h
+│  │      │  │  Generator.h
+│  │      │  │  Half.h
+│  │      │  │  InferSize.h
+│  │      │  │  InitialTensorOptions.h
+│  │      │  │  Layout.h
+│  │      │  │  LegacyTHDispatch.h
+│  │      │  │  LegacyTHDispatcher.h
+│  │      │  │  MatrixRef.h
+│  │      │  │  NativeFunctions.h
+│  │      │  │  Parallel.h
+│  │      │  │  RegisterCPU.h
+│  │      │  │  RegisterCUDA.h
+│  │      │  │  Scalar.h
+│  │      │  │  ScalarOps.h
+│  │      │  │  ScalarType.h
+│  │      │  │  SmallVector.h
+│  │      │  │  SparseCPUByteType.h
+│  │      │  │  SparseCPUCharType.h
+│  │      │  │  SparseCPUDoubleType.h
+│  │      │  │  SparseCPUFloatType.h
+│  │      │  │  SparseCPUIntType.h
+│  │      │  │  SparseCPULongType.h
+│  │      │  │  SparseCPUShortType.h
+│  │      │  │  SparseCUDAByteType.h
+│  │      │  │  SparseCUDACharType.h
+│  │      │  │  SparseCUDADoubleType.h
+│  │      │  │  SparseCUDAFloatType.h
+│  │      │  │  SparseCUDAIntType.h
+│  │      │  │  SparseCUDALongType.h
+│  │      │  │  SparseCUDAShortType.h
+│  │      │  │  SparseTensorImpl.h
+│  │      │  │  SparseTensorUtils.h
+│  │      │  │  Storage.h
+│  │      │  │  Tensor.h
+│  │      │  │  TensorAccessor.h
+│  │      │  │  TensorGeometry.h
+│  │      │  │  TensorOperators.h
+│  │      │  │  TensorOptions.h
+│  │      │  │  TensorUtils.h
+│  │      │  │  Type.h
+│  │      │  │  TypeDefault.h
+│  │      │  │  TypeExtendedInterface.h
+│  │      │  │  UndefinedType.h
+│  │      │  │  Utils.h
+│  │      │  │  WrapDimUtils.h
+│  │      │  │  WrapDimUtilsMulti.h
+│  │      │  │  
+│  │      │  ├─core
+│  │      │  │      alias_info.h
+│  │      │  │      ATenGeneral.h
+│  │      │  │      aten_interned_strings.h
+│  │      │  │      Backtrace.h
+│  │      │  │      blob.h
+│  │      │  │      context_base.h
+│  │      │  │      DefaultDtype.h
+│  │      │  │      Deprecated.h
+│  │      │  │      DimVector.h
+│  │      │  │      Formatting.h
+│  │      │  │      functional.h
+│  │      │  │      function_schema.h
+│  │      │  │      Generator.h
+│  │      │  │      Half.h
+│  │      │  │      interned_strings.h
+│  │      │  │      interned_strings_class.h
+│  │      │  │      ivalue.h
+│  │      │  │      jit_type.h
+│  │      │  │      LegacyDeviceTypeInit.h
+│  │      │  │      LegacyTypeDispatch.h
+│  │      │  │      Macros.h
+│  │      │  │      Range.h
+│  │      │  │      Reduction.h
+│  │      │  │      Scalar.h
+│  │      │  │      ScalarType.h
+│  │      │  │      SparseTensorRef.h
+│  │      │  │      Tensor.h
+│  │      │  │      TensorAccessor.h
+│  │      │  │      TensorImpl.h
+│  │      │  │      TensorMethods.h
+│  │      │  │      TensorOptions.h
+│  │      │  │      thread_pool.h
+│  │      │  │      Type.h
+│  │      │  │      typeid.h
+│  │      │  │      UndefinedTensorImpl.h
+│  │      │  │      VariableHooksInterface.h
+│  │      │  │      WrapDimMinimal.h
+│  │      │  │      
+│  │      │  ├─cpu
+│  │      │  │      FlushDenormal.h
+│  │      │  │      vml.h
+│  │      │  │      
+│  │      │  ├─cuda
+│  │      │  │  │  Array.h
+│  │      │  │  │  ATenCUDAGeneral.h
+│  │      │  │  │  CUDAApplyUtils.cuh
+│  │      │  │  │  CUDAConfig.h
+│  │      │  │  │  CUDAContext.h
+│  │      │  │  │  CUDADevice.h
+│  │      │  │  │  CUDAEvent.h
+│  │      │  │  │  CUDAGuard.h
+│  │      │  │  │  CUDAMultiStreamGuard.h
+│  │      │  │  │  CUDAStream.h
+│  │      │  │  │  CUDATensorMethods.cuh
+│  │      │  │  │  CUDATypeDefault.h
+│  │      │  │  │  CUDAUtils.h
+│  │      │  │  │  Exceptions.h
+│  │      │  │  │  NumericLimits.cuh
+│  │      │  │  │  PinnedMemoryAllocator.h
+│  │      │  │  │  _curand_mtgp32_host.h
+│  │      │  │  │  
+│  │      │  │  └─detail
+│  │      │  │          CUDAGuardImpl.h
+│  │      │  │          CUDAHooks.h
+│  │      │  │          IndexUtils.cuh
+│  │      │  │          KernelUtils.h
+│  │      │  │          OffsetCalculator.cuh
+│  │      │  │          TensorInfo.cuh
+│  │      │  │          
+│  │      │  ├─cudnn
+│  │      │  │      cudnn-wrapper.h
+│  │      │  │      Descriptors.h
+│  │      │  │      Exceptions.h
+│  │      │  │      Handle.h
+│  │      │  │      Handles.h
+│  │      │  │      Types.h
+│  │      │  │      Utils.h
+│  │      │  │      
+│  │      │  └─detail
+│  │      │          ComplexHooksInterface.h
+│  │      │          CPUGuardImpl.h
+│  │      │          CUDAHooksInterface.h
+│  │      │          FunctionTraits.h
+│  │      │          HIPHooksInterface.h
+│  │      │          ScalarTypeConversions.h
+│  │      │          
+│  │      ├─c10
+│  │      │  │  Device.h
+│  │      │  │  DeviceGuard.h
+│  │      │  │  DeviceType.h
+│  │      │  │  Half-inl.h
+│  │      │  │  Half.h
+│  │      │  │  Stream.h
+│  │      │  │  StreamGuard.h
+│  │      │  │  
+│  │      │  ├─core
+│  │      │  │      Allocator.h
+│  │      │  │      Backend.h
+│  │      │  │      bitcasts.h
+│  │      │  │      Layout.h
+│  │      │  │      Scalar.h
+│  │      │  │      ScalarType.h
+│  │      │  │      ScalarTypeUtils.h
+│  │      │  │      Storage.h
+│  │      │  │      StorageImpl.h
+│  │      │  │      TensorTypeId.h
+│  │      │  │      TensorTypeIdRegistration.h
+│  │      │  │      
+│  │      │  ├─cuda
+│  │      │  │  │  CUDAException.h
+│  │      │  │  │  CUDAFunctions.h
+│  │      │  │  │  CUDAMacros.h
+│  │      │  │  │  CUDAMathCompat.h
+│  │      │  │  │  
+│  │      │  │  └─impl
+│  │      │  │          CUDATest.h
+│  │      │  │          cuda_cmake_macros.h
+│  │      │  │          
+│  │      │  ├─impl
+│  │      │  │      DeviceGuardImplInterface.h
+│  │      │  │      FakeGuardImpl.h
+│  │      │  │      InlineDeviceGuard.h
+│  │      │  │      InlineStreamGuard.h
+│  │      │  │      VirtualGuardImpl.h
+│  │      │  │      
+│  │      │  ├─macros
+│  │      │  │      cmake_macros.h
+│  │      │  │      Export.h
+│  │      │  │      Macros.h
+│  │      │  │      
+│  │      │  └─util
+│  │      │          AlignOf.h
+│  │      │          Array.h
+│  │      │          ArrayRef.h
+│  │      │          Backtrace.h
+│  │      │          C++17.h
+│  │      │          Exception.h
+│  │      │          Flags.h
+│  │      │          flat_hash_map.h
+│  │      │          IdWrapper.h
+│  │      │          intrusive_ptr.h
+│  │      │          LeftRight.h
+│  │      │          Logging.h
+│  │      │          logging_is_google_glog.h
+│  │      │          logging_is_not_google_glog.h
+│  │      │          Metaprogramming.h
+│  │      │          Optional.h
+│  │      │          Registry.h
+│  │      │          SmallVector.h
+│  │      │          StringUtil.h
+│  │      │          string_utils.h
+│  │      │          Type.h
+│  │      │          typeid.h
+│  │      │          TypeList.h
+│  │      │          TypeTraits.h
+│  │      │          UniqueVoidPtr.h
+│  │      │          
+│  │      ├─caffe2
+│  │      │  ├─core
+│  │      │  │      allocator.h
+│  │      │  │      asan.h
+│  │      │  │      blob.h
+│  │      │  │      blob_serialization.h
+│  │      │  │      blob_serializer_base.h
+│  │      │  │      blob_stats.h
+│  │      │  │      common.h
+│  │      │  │      common_cudnn.h
+│  │      │  │      common_gpu.h
+│  │      │  │      common_omp.h
+│  │      │  │      context.h
+│  │      │  │      context_base.h
+│  │      │  │      context_gpu.h
+│  │      │  │      cudnn_wrappers.h
+│  │      │  │      db.h
+│  │      │  │      event.h
+│  │      │  │      event_cpu.h
+│  │      │  │      flags.h
+│  │      │  │      graph.h
+│  │      │  │      init.h
+│  │      │  │      logging.h
+│  │      │  │      macros.h
+│  │      │  │      memonger.h
+│  │      │  │      module.h
+│  │      │  │      net.h
+│  │      │  │      net_async_base.h
+│  │      │  │      net_async_scheduling.h
+│  │      │  │      net_async_tracing.h
+│  │      │  │      net_dag_utils.h
+│  │      │  │      net_simple.h
+│  │      │  │      net_simple_refcount.h
+│  │      │  │      numa.h
+│  │      │  │      observer.h
+│  │      │  │      operator.h
+│  │      │  │      operator_c10wrapper.h
+│  │      │  │      operator_gradient.h
+│  │      │  │      operator_schema.h
+│  │      │  │      plan_executor.h
+│  │      │  │      prof_dag_counters.h
+│  │      │  │      qtensor.h
+│  │      │  │      qtensor_serialization.h
+│  │      │  │      scope_guard.h
+│  │      │  │      static_tracepoint.h
+│  │      │  │      static_tracepoint_elfx86.h
+│  │      │  │      stats.h
+│  │      │  │      storage.h
+│  │      │  │      tensor.h
+│  │      │  │      tensor_impl.h
+│  │      │  │      tensor_int8.h
+│  │      │  │      THCCachingAllocator_gpu.h
+│  │      │  │      timer.h
+│  │      │  │      transform.h
+│  │      │  │      types.h
+│  │      │  │      workspace.h
+│  │      │  │      
+│  │      │  ├─proto
+│  │      │  │      caffe2.pb.h
+│  │      │  │      caffe2_legacy.pb.h
+│  │      │  │      caffe2_pb.h
+│  │      │  │      hsm.pb.h
+│  │      │  │      metanet.pb.h
+│  │      │  │      predictor_consts.pb.h
+│  │      │  │      prof_dag.pb.h
+│  │      │  │      torch.pb.h
+│  │      │  │      torch_pb.h
+│  │      │  │      
+│  │      │  └─utils
+│  │      │          bench_utils.h
+│  │      │          cast.h
+│  │      │          cblas.h
+│  │      │          conversions.h
+│  │      │          cpuid.h
+│  │      │          cpu_neon.h
+│  │      │          eigen_utils.h
+│  │      │          filler.h
+│  │      │          fixed_divisor.h
+│  │      │          map_utils.h
+│  │      │          math-detail.h
+│  │      │          math.h
+│  │      │          math_utils.h
+│  │      │          murmur_hash3.h
+│  │      │          proto_convert.h
+│  │      │          proto_utils.h
+│  │      │          proto_wrap.h
+│  │      │          signal_handler.h
+│  │      │          simple_queue.h
+│  │      │          smart_tensor_printer.h
+│  │      │          string_utils.h
+│  │      │          thread_name.h
+│  │      │          thread_pool.h
+│  │      │          zmq_helper.h
+│  │      │          
+│  │      ├─pybind11
+│  │      │  │  attr.h
+│  │      │  │  buffer_info.h
+│  │      │  │  cast.h
+│  │      │  │  chrono.h
+│  │      │  │  common.h
+│  │      │  │  complex.h
+│  │      │  │  eigen.h
+│  │      │  │  embed.h
+│  │      │  │  eval.h
+│  │      │  │  functional.h
+│  │      │  │  iostream.h
+│  │      │  │  numpy.h
+│  │      │  │  operators.h
+│  │      │  │  options.h
+│  │      │  │  pybind11.h
+│  │      │  │  pytypes.h
+│  │      │  │  stl.h
+│  │      │  │  stl_bind.h
+│  │      │  │  
+│  │      │  └─detail
+│  │      │          class.h
+│  │      │          common.h
+│  │      │          descr.h
+│  │      │          init.h
+│  │      │          internals.h
+│  │      │          typeid.h
+│  │      │          
+│  │      ├─TH
+│  │      │  │  TH.h
+│  │      │  │  THAllocator.h
+│  │      │  │  THBlas.h
+│  │      │  │  THDiskFile.h
+│  │      │  │  THFile.h
+│  │      │  │  THFilePrivate.h
+│  │      │  │  THGeneral.h
+│  │      │  │  THGenerateAllTypes.h
+│  │      │  │  THGenerateByteType.h
+│  │      │  │  THGenerateCharType.h
+│  │      │  │  THGenerateDoubleType.h
+│  │      │  │  THGenerateFloatType.h
+│  │      │  │  THGenerateFloatTypes.h
+│  │      │  │  THGenerateHalfType.h
+│  │      │  │  THGenerateIntType.h
+│  │      │  │  THGenerateIntTypes.h
+│  │      │  │  THGenerateLongType.h
+│  │      │  │  THGenerateShortType.h
+│  │      │  │  THGenerator.hpp
+│  │      │  │  THHalf.h
+│  │      │  │  THLapack.h
+│  │      │  │  THLogAdd.h
+│  │      │  │  THMath.h
+│  │      │  │  THMemoryFile.h
+│  │      │  │  THRandom.h
+│  │      │  │  THSize.h
+│  │      │  │  THStorage.h
+│  │      │  │  THStorageFunctions.h
+│  │      │  │  THStorageFunctions.hpp
+│  │      │  │  THTensor.h
+│  │      │  │  THTensor.hpp
+│  │      │  │  THTensorApply.h
+│  │      │  │  THTensorDimApply.h
+│  │      │  │  THVector.h
+│  │      │  │  
+│  │      │  └─generic
+│  │      │          THBlas.h
+│  │      │          THLapack.h
+│  │      │          THStorage.h
+│  │      │          THStorageCopy.h
+│  │      │          THTensor.h
+│  │      │          THTensor.hpp
+│  │      │          THTensorConv.h
+│  │      │          THTensorFastGetSet.hpp
+│  │      │          THTensorLapack.h
+│  │      │          THTensorMath.h
+│  │      │          THTensorRandom.h
+│  │      │          THVector.h
+│  │      │          
+│  │      ├─THC
+│  │      │  │  THC.h
+│  │      │  │  THCAllocator.h
+│  │      │  │  THCApply.cuh
+│  │      │  │  THCAsmUtils.cuh
+│  │      │  │  THCAtomics.cuh
+│  │      │  │  THCBlas.h
+│  │      │  │  THCCachingAllocator.h
+│  │      │  │  THCCachingHostAllocator.h
+│  │      │  │  THCDeviceTensor-inl.cuh
+│  │      │  │  THCDeviceTensor.cuh
+│  │      │  │  THCDeviceTensorUtils-inl.cuh
+│  │      │  │  THCDeviceTensorUtils.cuh
+│  │      │  │  THCDeviceUtils.cuh
+│  │      │  │  THCGeneral.h
+│  │      │  │  THCGeneral.hpp
+│  │      │  │  THCGenerateAllTypes.h
+│  │      │  │  THCGenerateByteType.h
+│  │      │  │  THCGenerateCharType.h
+│  │      │  │  THCGenerateDoubleType.h
+│  │      │  │  THCGenerateFloatType.h
+│  │      │  │  THCGenerateFloatTypes.h
+│  │      │  │  THCGenerateHalfType.h
+│  │      │  │  THCGenerateIntType.h
+│  │      │  │  THCGenerateLongType.h
+│  │      │  │  THCGenerateShortType.h
+│  │      │  │  THCGenerator.hpp
+│  │      │  │  THCIntegerDivider.cuh
+│  │      │  │  THCNumerics.cuh
+│  │      │  │  THCReduce.cuh
+│  │      │  │  THCReduceAll.cuh
+│  │      │  │  THCReduceApplyUtils.cuh
+│  │      │  │  THCScanUtils.cuh
+│  │      │  │  THCSleep.h
+│  │      │  │  THCSortUtils.cuh
+│  │      │  │  THCStorage.h
+│  │      │  │  THCStorage.hpp
+│  │      │  │  THCStorageCopy.h
+│  │      │  │  THCTensor.h
+│  │      │  │  THCTensor.hpp
+│  │      │  │  THCTensorCopy.h
+│  │      │  │  THCTensorCopy.hpp
+│  │      │  │  THCTensorInfo.cuh
+│  │      │  │  THCTensorMath.h
+│  │      │  │  THCTensorMathMagma.cuh
+│  │      │  │  THCTensorMathPointwise.cuh
+│  │      │  │  THCTensorMathReduce.cuh
+│  │      │  │  THCTensorMode.cuh
+│  │      │  │  THCTensorRandom.cuh
+│  │      │  │  THCTensorRandom.h
+│  │      │  │  THCTensorSort.cuh
+│  │      │  │  THCTensorTopK.cuh
+│  │      │  │  THCTensorTypeUtils.cuh
+│  │      │  │  THCThrustAllocator.cuh
+│  │      │  │  
+│  │      │  └─generic
+│  │      │          THCStorage.h
+│  │      │          THCStorageCopy.h
+│  │      │          THCTensor.h
+│  │      │          THCTensorCopy.h
+│  │      │          THCTensorIndex.h
+│  │      │          THCTensorMasked.h
+│  │      │          THCTensorMath.h
+│  │      │          THCTensorMathBlas.h
+│  │      │          THCTensorMathCompare.h
+│  │      │          THCTensorMathCompareT.h
+│  │      │          THCTensorMathMagma.h
+│  │      │          THCTensorMathPairwise.h
+│  │      │          THCTensorMathPointwise.h
+│  │      │          THCTensorMathReduce.h
+│  │      │          THCTensorMathScan.h
+│  │      │          THCTensorMode.h
+│  │      │          THCTensorRandom.h
+│  │      │          THCTensorScatterGather.h
+│  │      │          THCTensorSort.h
+│  │      │          THCTensorTopK.h
+│  │      │          
+│  │      ├─THCUNN
+│  │      │      SharedMem.cuh
+│  │      │      THCHalfAutoNumerics.cuh
+│  │      │      
+│  │      └─torch
+│  │          │  extension.h
+│  │          │  script.h
+│  │          │  
+│  │          └─csrc
+│  │              │  byte_order.h
+│  │              │  copy_utils.h
+│  │              │  DataLoader.h
+│  │              │  Device.h
+│  │              │  Dtype.h
+│  │              │  DynamicTypes.h
+│  │              │  Exceptions.h
+│  │              │  Generator.h
+│  │              │  Layout.h
+│  │              │  Module.h
+│  │              │  PtrWrapper.h
+│  │              │  PythonTypes.h
+│  │              │  python_headers.h
+│  │              │  serialization.h
+│  │              │  Size.h
+│  │              │  Storage.h
+│  │              │  StorageDefs.h
+│  │              │  THP.h
+│  │              │  THP_API.h
+│  │              │  THP_export.h
+│  │              │  TypeInfo.h
+│  │              │  Types.h
+│  │              │  utils.h
+│  │              │  variable_tensor_functions.h
+│  │              │  WindowsTorchApiMacro.h
+│  │              │  
+│  │              ├─api
+│  │              │  └─include
+│  │              │      └─torch
+│  │              │          │  all.h
+│  │              │          │  arg.h
+│  │              │          │  cuda.h
+│  │              │          │  data.h
+│  │              │          │  expanding_array.h
+│  │              │          │  jit.h
+│  │              │          │  nn.h
+│  │              │          │  optim.h
+│  │              │          │  ordered_dict.h
+│  │              │          │  python.h
+│  │              │          │  serialize.h
+│  │              │          │  torch.h
+│  │              │          │  types.h
+│  │              │          │  utils.h
+│  │              │          │  
+│  │              │          ├─data
+│  │              │          │  │  dataloader.h
+│  │              │          │  │  dataloader_options.h
+│  │              │          │  │  datasets.h
+│  │              │          │  │  example.h
+│  │              │          │  │  iterator.h
+│  │              │          │  │  samplers.h
+│  │              │          │  │  transforms.h
+│  │              │          │  │  worker_exception.h
+│  │              │          │  │  
+│  │              │          │  ├─datasets
+│  │              │          │  │      base.h
+│  │              │          │  │      map.h
+│  │              │          │  │      mnist.h
+│  │              │          │  │      shared.h
+│  │              │          │  │      tensor.h
+│  │              │          │  │      
+│  │              │          │  ├─detail
+│  │              │          │  │      data_shuttle.h
+│  │              │          │  │      queue.h
+│  │              │          │  │      sequencers.h
+│  │              │          │  │      
+│  │              │          │  ├─samplers
+│  │              │          │  │      base.h
+│  │              │          │  │      custom_batch_request.h
+│  │              │          │  │      random.h
+│  │              │          │  │      sequential.h
+│  │              │          │  │      serialize.h
+│  │              │          │  │      stream.h
+│  │              │          │  │      
+│  │              │          │  └─transforms
+│  │              │          │          base.h
+│  │              │          │          collate.h
+│  │              │          │          lambda.h
+│  │              │          │          stack.h
+│  │              │          │          tensor.h
+│  │              │          │          
+│  │              │          ├─detail
+│  │              │          │      static.h
+│  │              │          │      
+│  │              │          ├─nn
+│  │              │          │  │  cloneable.h
+│  │              │          │  │  init.h
+│  │              │          │  │  module.h
+│  │              │          │  │  modules.h
+│  │              │          │  │  pimpl-inl.h
+│  │              │          │  │  pimpl.h
+│  │              │          │  │  
+│  │              │          │  ├─modules
+│  │              │          │  │      any.h
+│  │              │          │  │      batchnorm.h
+│  │              │          │  │      conv.h
+│  │              │          │  │      dropout.h
+│  │              │          │  │      embedding.h
+│  │              │          │  │      functional.h
+│  │              │          │  │      linear.h
+│  │              │          │  │      rnn.h
+│  │              │          │  │      sequential.h
+│  │              │          │  │      
+│  │              │          │  └─parallel
+│  │              │          │          data_parallel.h
+│  │              │          │          
+│  │              │          ├─optim
+│  │              │          │      adagrad.h
+│  │              │          │      adam.h
+│  │              │          │      lbfgs.h
+│  │              │          │      optimizer.h
+│  │              │          │      rmsprop.h
+│  │              │          │      serialize.h
+│  │              │          │      sgd.h
+│  │              │          │      
+│  │              │          └─serialize
+│  │              │                  archive.h
+│  │              │                  input-archive.h
+│  │              │                  output-archive.h
+│  │              │                  tensor.h
+│  │              │                  
+│  │              ├─autograd
+│  │              │  │  anomaly_mode.h
+│  │              │  │  autograd.h
+│  │              │  │  edge.h
+│  │              │  │  engine.h
+│  │              │  │  function.h
+│  │              │  │  function_hook.h
+│  │              │  │  grad_mode.h
+│  │              │  │  input_buffer.h
+│  │              │  │  input_metadata.h
+│  │              │  │  profiler.h
+│  │              │  │  python_anomaly_mode.h
+│  │              │  │  python_cpp_function.h
+│  │              │  │  python_engine.h
+│  │              │  │  python_function.h
+│  │              │  │  python_hook.h
+│  │              │  │  python_legacy_variable.h
+│  │              │  │  python_variable.h
+│  │              │  │  python_variable_indexing.h
+│  │              │  │  saved_variable.h
+│  │              │  │  symbolic.h
+│  │              │  │  type_and_shape.h
+│  │              │  │  variable.h
+│  │              │  │  VariableTypeUtils.h
+│  │              │  │  variable_version.h
+│  │              │  │  
+│  │              │  └─generated
+│  │              │          Functions.h
+│  │              │          python_functions.h
+│  │              │          python_nn_functions.h
+│  │              │          python_nn_functions_dispatch.h
+│  │              │          python_torch_functions_dispatch.h
+│  │              │          python_variable_methods_dispatch.h
+│  │              │          VariableType.h
+│  │              │          variable_factories.h
+│  │              │          
+│  │              ├─cuda
+│  │              │      comm.h
+│  │              │      cuda_check.h
+│  │              │      device_set.h
+│  │              │      Module.h
+│  │              │      nccl.h
+│  │              │      override_macros.h
+│  │              │      python_comm.h
+│  │              │      python_nccl.h
+│  │              │      restore_macros.h
+│  │              │      serialization.h
+│  │              │      Storage.h
+│  │              │      Stream.h
+│  │              │      THCP.h
+│  │              │      undef_macros.h
+│  │              │      utils.h
+│  │              │      
+│  │              ├─jit
+│  │              │  │  alias_info.h
+│  │              │  │  argument_spec.h
+│  │              │  │  assertions.h
+│  │              │  │  attributes.h
+│  │              │  │  autodiff.h
+│  │              │  │  code_template.h
+│  │              │  │  constants.h
+│  │              │  │  custom_operator.h
+│  │              │  │  dynamic_dag.h
+│  │              │  │  export.h
+│  │              │  │  function_schema.h
+│  │              │  │  generic_if.h
+│  │              │  │  graph_executor.h
+│  │              │  │  graph_node_list.h
+│  │              │  │  hooks_for_testing.h
+│  │              │  │  import.h
+│  │              │  │  import_method.h
+│  │              │  │  init.h
+│  │              │  │  interned_strings.h
+│  │              │  │  interned_strings_class.h
+│  │              │  │  interpreter.h
+│  │              │  │  ir.h
+│  │              │  │  ir_views.h
+│  │              │  │  ivalue.h
+│  │              │  │  named_value.h
+│  │              │  │  node_hashing.h
+│  │              │  │  operator.h
+│  │              │  │  pybind.h
+│  │              │  │  pybind_utils.h
+│  │              │  │  python_arg_flatten.h
+│  │              │  │  python_ir.h
+│  │              │  │  python_tracer.h
+│  │              │  │  resource_guard.h
+│  │              │  │  scope.h
+│  │              │  │  source_location.h
+│  │              │  │  source_range.h
+│  │              │  │  stack.h
+│  │              │  │  symbolic_variable.h
+│  │              │  │  tracer.h
+│  │              │  │  tracing_state.h
+│  │              │  │  type.h
+│  │              │  │  variable_tensor_list.h
+│  │              │  │  
+│  │              │  ├─passes
+│  │              │  │      alias_analysis.h
+│  │              │  │      batch_mm.h
+│  │              │  │      canonicalize.h
+│  │              │  │      canonicalize_ops.h
+│  │              │  │      common_subexpression_elimination.h
+│  │              │  │      constant_pooling.h
+│  │              │  │      constant_propagation.h
+│  │              │  │      create_autodiff_subgraphs.h
+│  │              │  │      dead_code_elimination.h
+│  │              │  │      erase_number_types.h
+│  │              │  │      graph_fuser.h
+│  │              │  │      inline_autodiff_subgraphs.h
+│  │              │  │      inplace_check.h
+│  │              │  │      loop_unrolling.h
+│  │              │  │      lower_grad_of.h
+│  │              │  │      lower_tuples.h
+│  │              │  │      onnx.h
+│  │              │  │      peephole.h
+│  │              │  │      python_print.h
+│  │              │  │      remove_expands.h
+│  │              │  │      remove_inplace_ops.h
+│  │              │  │      requires_grad_analysis.h
+│  │              │  │      shape_analysis.h
+│  │              │  │      specialize_undef.h
+│  │              │  │      to_batch.h
+│  │              │  │      
+│  │              │  └─script
+│  │              │          builtin_functions.h
+│  │              │          compiler.h
+│  │              │          error_report.h
+│  │              │          init.h
+│  │              │          jit_exception.h
+│  │              │          lexer.h
+│  │              │          module.h
+│  │              │          parser.h
+│  │              │          parse_string_literal.h
+│  │              │          python_tree_views.h
+│  │              │          tree.h
+│  │              │          tree_views.h
+│  │              │          
+│  │              └─utils
+│  │                      auto_gil.h
+│  │                      cuda_enabled.h
+│  │                      cuda_lazy_init.h
+│  │                      disallow_copy.h
+│  │                      functional.h
+│  │                      hash.h
+│  │                      invalid_arguments.h
+│  │                      memory.h
+│  │                      numpy_stub.h
+│  │                      object_ptr.h
+│  │                      pybind.h
+│  │                      python_arg_parser.h
+│  │                      python_compat.h
+│  │                      python_numbers.h
+│  │                      python_scalars.h
+│  │                      python_strings.h
+│  │                      python_stub.h
+│  │                      python_tuples.h
+│  │                      tempfile.h
+│  │                      tensor_apply.h
+│  │                      tensor_dtypes.h
+│  │                      tensor_flatten.h
+│  │                      tensor_layouts.h
+│  │                      tensor_list.h
+│  │                      tensor_new.h
+│  │                      tensor_numpy.h
+│  │                      tensor_types.h
+│  │                      tuple_parser.h
+│  │                      variadic.h
+│  │                      
+│  ├─multiprocessing
+│  │  │  pool.py
+│  │  │  queue.py
+│  │  │  reductions.py
+│  │  │  spawn.py
+│  │  │  __init__.py
+│  │  │  
+│  │  └─__pycache__
+│  │          pool.cpython-37.pyc
+│  │          queue.cpython-37.pyc
+│  │          reductions.cpython-37.pyc
+│  │          spawn.cpython-37.pyc
+│  │          __init__.cpython-37.pyc
+│  │          
+│  ├─nn
+│  │  │  functional.py
+│  │  │  grad.py
+│  │  │  init.py
+│  │  │  parameter.py
+│  │  │  _reduction.py
+│  │  │  _VF.py
+│  │  │  __init__.py
+│  │  │  
+│  │  ├─backends
+│  │  │  │  backend.py
+│  │  │  │  thnn.py
+│  │  │  │  __init__.py
+│  │  │  │  
+│  │  │  └─__pycache__
+│  │  │          backend.cpython-37.pyc
+│  │  │          thnn.cpython-37.pyc
+│  │  │          __init__.cpython-37.pyc
+│  │  │          
+│  │  ├─modules
+│  │  │  │  activation.py
+│  │  │  │  adaptive.py
+│  │  │  │  batchnorm.py
+│  │  │  │  container.py
+│  │  │  │  conv.py
+│  │  │  │  distance.py
+│  │  │  │  dropout.py
+│  │  │  │  fold.py
+│  │  │  │  instancenorm.py
+│  │  │  │  linear.py
+│  │  │  │  loss.py
+│  │  │  │  module.py
+│  │  │  │  normalization.py
+│  │  │  │  padding.py
+│  │  │  │  pixelshuffle.py
+│  │  │  │  pooling.py
+│  │  │  │  rnn.py
+│  │  │  │  sparse.py
+│  │  │  │  upsampling.py
+│  │  │  │  utils.py
+│  │  │  │  __init__.py
+│  │  │  │  
+│  │  │  └─__pycache__
+│  │  │          activation.cpython-37.pyc
+│  │  │          adaptive.cpython-37.pyc
+│  │  │          batchnorm.cpython-37.pyc
+│  │  │          container.cpython-37.pyc
+│  │  │          conv.cpython-37.pyc
+│  │  │          distance.cpython-37.pyc
+│  │  │          dropout.cpython-37.pyc
+│  │  │          fold.cpython-37.pyc
+│  │  │          instancenorm.cpython-37.pyc
+│  │  │          linear.cpython-37.pyc
+│  │  │          loss.cpython-37.pyc
+│  │  │          module.cpython-37.pyc
+│  │  │          normalization.cpython-37.pyc
+│  │  │          padding.cpython-37.pyc
+│  │  │          pixelshuffle.cpython-37.pyc
+│  │  │          pooling.cpython-37.pyc
+│  │  │          rnn.cpython-37.pyc
+│  │  │          sparse.cpython-37.pyc
+│  │  │          upsampling.cpython-37.pyc
+│  │  │          utils.cpython-37.pyc
+│  │  │          __init__.cpython-37.pyc
+│  │  │          
+│  │  ├─parallel
+│  │  │  │  data_parallel.py
+│  │  │  │  distributed.py
+│  │  │  │  distributed_cpu.py
+│  │  │  │  parallel_apply.py
+│  │  │  │  replicate.py
+│  │  │  │  scatter_gather.py
+│  │  │  │  _functions.py
+│  │  │  │  __init__.py
+│  │  │  │  
+│  │  │  ├─deprecated
+│  │  │  │  │  distributed.py
+│  │  │  │  │  distributed_cpu.py
+│  │  │  │  │  __init__.py
+│  │  │  │  │  
+│  │  │  │  └─__pycache__
+│  │  │  │          distributed.cpython-37.pyc
+│  │  │  │          distributed_cpu.cpython-37.pyc
+│  │  │  │          __init__.cpython-37.pyc
+│  │  │  │          
+│  │  │  └─__pycache__
+│  │  │          data_parallel.cpython-37.pyc
+│  │  │          distributed.cpython-37.pyc
+│  │  │          distributed_cpu.cpython-37.pyc
+│  │  │          parallel_apply.cpython-37.pyc
+│  │  │          replicate.cpython-37.pyc
+│  │  │          scatter_gather.cpython-37.pyc
+│  │  │          _functions.cpython-37.pyc
+│  │  │          __init__.cpython-37.pyc
+│  │  │          
+│  │  ├─utils
+│  │  │  │  clip_grad.py
+│  │  │  │  convert_parameters.py
+│  │  │  │  rnn.py
+│  │  │  │  spectral_norm.py
+│  │  │  │  weight_norm.py
+│  │  │  │  __init__.py
+│  │  │  │  
+│  │  │  └─__pycache__
+│  │  │          clip_grad.cpython-37.pyc
+│  │  │          convert_parameters.cpython-37.pyc
+│  │  │          rnn.cpython-37.pyc
+│  │  │          spectral_norm.cpython-37.pyc
+│  │  │          weight_norm.cpython-37.pyc
+│  │  │          __init__.cpython-37.pyc
+│  │  │          
+│  │  ├─_functions
+│  │  │  │  vision.py
+│  │  │  │  __init__.py
+│  │  │  │  
+│  │  │  ├─thnn
+│  │  │  │  │  auto.py
+│  │  │  │  │  auto_double_backwards.py
+│  │  │  │  │  auto_symbolic.py
+│  │  │  │  │  fold.py
+│  │  │  │  │  normalization.py
+│  │  │  │  │  sparse.py
+│  │  │  │  │  __init__.py
+│  │  │  │  │  
+│  │  │  │  └─__pycache__
+│  │  │  │          auto.cpython-37.pyc
+│  │  │  │          auto_double_backwards.cpython-37.pyc
+│  │  │  │          auto_symbolic.cpython-37.pyc
+│  │  │  │          fold.cpython-37.pyc
+│  │  │  │          normalization.cpython-37.pyc
+│  │  │  │          sparse.cpython-37.pyc
+│  │  │  │          __init__.cpython-37.pyc
+│  │  │  │          
+│  │  │  └─__pycache__
+│  │  │          vision.cpython-37.pyc
+│  │  │          __init__.cpython-37.pyc
+│  │  │          
+│  │  └─__pycache__
+│  │          functional.cpython-37.pyc
+│  │          grad.cpython-37.pyc
+│  │          init.cpython-37.pyc
+│  │          parameter.cpython-37.pyc
+│  │          _reduction.cpython-37.pyc
+│  │          _VF.cpython-37.pyc
+│  │          __init__.cpython-37.pyc
+│  │          
+│  ├─onnx
+│  │  │  operators.py
+│  │  │  symbolic.py
+│  │  │  utils.py
+│  │  │  __init__.py
+│  │  │  
+│  │  └─__pycache__
+│  │          operators.cpython-37.pyc
+│  │          symbolic.cpython-37.pyc
+│  │          utils.cpython-37.pyc
+│  │          __init__.cpython-37.pyc
+│  │          
+│  ├─optim
+│  │  │  adadelta.py
+│  │  │  adagrad.py
+│  │  │  adam.py
+│  │  │  adamax.py
+│  │  │  asgd.py
+│  │  │  lbfgs.py
+│  │  │  lr_scheduler.py
+│  │  │  optimizer.py
+│  │  │  rmsprop.py
+│  │  │  rprop.py
+│  │  │  sgd.py
+│  │  │  sparse_adam.py
+│  │  │  __init__.py
+│  │  │  
+│  │  └─__pycache__
+│  │          adadelta.cpython-37.pyc
+│  │          adagrad.cpython-37.pyc
+│  │          adam.cpython-37.pyc
+│  │          adamax.cpython-37.pyc
+│  │          asgd.cpython-37.pyc
+│  │          lbfgs.cpython-37.pyc
+│  │          lr_scheduler.cpython-37.pyc
+│  │          optimizer.cpython-37.pyc
+│  │          rmsprop.cpython-37.pyc
+│  │          rprop.cpython-37.pyc
+│  │          sgd.cpython-37.pyc
+│  │          sparse_adam.cpython-37.pyc
+│  │          __init__.cpython-37.pyc
+│  │          
+│  ├─share
+│  │  └─cmake
+│  │      ├─ATen
+│  │      │      ATenConfig.cmake
+│  │      │      
+│  │      ├─Caffe2
+│  │      │  │  Caffe2Config.cmake
+│  │      │  │  Caffe2ConfigVersion.cmake
+│  │      │  │  Caffe2Targets-release.cmake
+│  │      │  │  Caffe2Targets.cmake
+│  │      │  │  
+│  │      │  ├─Modules_CUDA_fix
+│  │      │  │  │  FindCUDA.cmake
+│  │      │  │  │  
+│  │      │  │  └─upstream
+│  │      │  │      │  CMakeInitializeConfigs.cmake
+│  │      │  │      │  FindCUDA.cmake
+│  │      │  │      │  FindPackageHandleStandardArgs.cmake
+│  │      │  │      │  FindPackageMessage.cmake
+│  │      │  │      │  
+│  │      │  │      └─FindCUDA
+│  │      │  │              make2cmake.cmake
+│  │      │  │              parse_cubin.cmake
+│  │      │  │              run_nvcc.cmake
+│  │      │  │              select_compute_arch.cmake
+│  │      │  │              
+│  │      │  └─public
+│  │      │          cuda.cmake
+│  │      │          gflags.cmake
+│  │      │          glog.cmake
+│  │      │          mkl.cmake
+│  │      │          mkldnn.cmake
+│  │      │          protobuf.cmake
+│  │      │          threads.cmake
+│  │      │          utils.cmake
+│  │      │          
+│  │      └─Torch
+│  │              TorchConfig.cmake
+│  │              TorchConfigVersion.cmake
+│  │              
+│  ├─sparse
+│  │  │  __init__.py
+│  │  │  
+│  │  └─__pycache__
+│  │          __init__.cpython-37.pyc
+│  │          
+│  ├─testing
+│  │  │  __init__.py
+│  │  │  
+│  │  └─__pycache__
+│  │          __init__.cpython-37.pyc
+│  │          
+│  ├─utils
+│  │  │  checkpoint.py
+│  │  │  collect_env.py
+│  │  │  cpp_extension.py
+│  │  │  dlpack.py
+│  │  │  file_baton.py
+│  │  │  hooks.py
+│  │  │  model_zoo.py
+│  │  │  _cpp_extension_versioner.py
+│  │  │  __init__.py
+│  │  │  
+│  │  ├─backcompat
+│  │  │  │  __init__.py
+│  │  │  │  
+│  │  │  └─__pycache__
+│  │  │          __init__.cpython-37.pyc
+│  │  │          
+│  │  ├─bottleneck
+│  │  │  │  __init__.py
+│  │  │  │  __main__.py
+│  │  │  │  
+│  │  │  └─__pycache__
+│  │  │          __init__.cpython-37.pyc
+│  │  │          __main__.cpython-37.pyc
+│  │  │          
+│  │  ├─data
+│  │  │  │  dataloader.py
+│  │  │  │  dataset.py
+│  │  │  │  distributed.py
+│  │  │  │  sampler.py
+│  │  │  │  __init__.py
+│  │  │  │  
+│  │  │  └─__pycache__
+│  │  │          dataloader.cpython-37.pyc
+│  │  │          dataset.cpython-37.pyc
+│  │  │          distributed.cpython-37.pyc
+│  │  │          sampler.cpython-37.pyc
+│  │  │          __init__.cpython-37.pyc
+│  │  │          
+│  │  ├─ffi
+│  │  │  │  __init__.py
+│  │  │  │  
+│  │  │  └─__pycache__
+│  │  │          __init__.cpython-37.pyc
+│  │  │          
+│  │  └─__pycache__
+│  │          checkpoint.cpython-37.pyc
+│  │          collect_env.cpython-37.pyc
+│  │          cpp_extension.cpython-37.pyc
+│  │          dlpack.cpython-37.pyc
+│  │          file_baton.cpython-37.pyc
+│  │          hooks.cpython-37.pyc
+│  │          model_zoo.cpython-37.pyc
+│  │          _cpp_extension_versioner.cpython-37.pyc
+│  │          __init__.cpython-37.pyc
+│  │          
+│  ├─_thnn
+│  │  │  utils.py
+│  │  │  __init__.py
+│  │  │  
+│  │  └─__pycache__
+│  │          utils.cpython-37.pyc
+│  │          __init__.cpython-37.pyc
+│  │          
+│  └─__pycache__
+│          functional.cpython-37.pyc
+│          hub.cpython-37.pyc
+│          random.cpython-37.pyc
+│          serialization.cpython-37.pyc
+│          storage.cpython-37.pyc
+│          tensor.cpython-37.pyc
+│          version.cpython-37.pyc
+│          _jit_internal.cpython-37.pyc
+│          _ops.cpython-37.pyc
+│          _six.cpython-37.pyc
+│          _storage_docs.cpython-37.pyc
+│          _tensor_docs.cpython-37.pyc
+│          _tensor_str.cpython-37.pyc
+│          _torch_docs.cpython-37.pyc
+│          _utils.cpython-37.pyc
+│          _utils_internal.cpython-37.pyc
+│          __init__.cpython-37.pyc
+│          
+└─tornado
+        speedups.cp37-win_amd64.pyd
+        
